@@ -1,0 +1,199 @@
+[
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "id",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column id using expression value.toNumber()"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "description",
+    "description": "Remove column description"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "menus_appeared",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column menus_appeared using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "times_appeared",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column times_appeared using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "first_appeared",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column first_appeared using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "last_appeared",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column last_appeared using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "lowest_price",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column lowest_price using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "highest_price",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column highest_price using expression value.toNumber()"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "name",
+    "expression": "grel:value.replace(/[^A-Za-z0-9 ]+/,\" \").replace(/\\s+/,\" \").trim()",
+    "onError": "set-to-blank",
+    "newColumnName": "dish_name_cleaned",
+    "columnInsertIndex": 2,
+    "description": "Create column dish_name_cleaned at index 2 based on column name using expression grel:value.replace(/[^A-Za-z0-9 ]+/,\" \").replace(/\\s+/,\" \").trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "dish_name_cleaned",
+    "expression": "value.toTitlecase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column dish_name_cleaned using expression value.toTitlecase()"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "dish_name_cleaned",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Broiled Live Lobster Whole",
+          "Whole Broiled Live Lobster",
+          "Lobster Broiled Live Whole",
+          "Broiled Whole Live Lobster",
+          "Live Broiled Lobster Whole",
+          "Live Lobster Broiled Whole",
+          "Lobster Live Broiled Whole",
+          "Lobster Whole Broiled Live",
+          "Lobster Whole Live Broiled",
+          "Whole Live Broiled Lobster",
+          "Whole Live Lobster Broiled"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Broiled Whole Live Lobster"
+      },
+      {
+        "from": [
+          "Eggs Poached On Toast 2",
+          "2 Eggs Poached On Toast",
+          "2 Poached Eggs On Toast",
+          "Poached Eggs On Toast 2",
+          "Eggs 2 Poached On Toast",
+          "Poached Eggs 2 On Toast",
+          "Eggs Poached 2 On Toast",
+          "2 Poached On Toast Eggs"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2 Eggs Poached On Toast"
+      },
+      {
+        "from": [
+          "Poached Eggs Plain Two",
+          "Eggs Poached Plain Two",
+          "Two Poached Eggs Plain",
+          "Two Eggs Poached Plain",
+          "Eggs Two Poached Plain",
+          "Poached Plain Eggs Two",
+          "Poached Plain Two Eggs",
+          "Two Poached Plain Eggs"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Plain Two Poached Eggs"
+      },
+      {
+        "from": [
+          "2 Eggs Poached",
+          "2 Poached Eggs",
+          "Eggs Poached 2",
+          "Poached Eggs 2",
+          "Eggs 2 Poached",
+          "Eggs Poached 2 Eggs",
+          "Poached 2 Eggs",
+          "Poached Eggs 2 Eggs"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2 Eggs Poached"
+      }
+    ],
+    "description": "Mass edit cells in column dish_name_cleaned"
+  }
+]

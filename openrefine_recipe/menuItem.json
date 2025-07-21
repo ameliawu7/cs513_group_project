@@ -1,0 +1,122 @@
+[
+  {
+    "op": "core/column-removal",
+    "columnName": "xpos",
+    "description": "Remove column xpos"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "ypos",
+    "description": "Remove column ypos"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "id",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column id using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "menu_page_id",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column menu_page_id using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "price",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column price using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "high_price",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column high_price using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "dish_id",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column dish_id using expression value.toNumber()"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "created_at",
+    "expression": "grel:value.replace(\" UTC\", \"\").toDate()",
+    "onError": "set-to-blank",
+    "newColumnName": "created_at_timeless",
+    "columnInsertIndex": 6,
+    "description": "Create column created_at_timeless at index 6 based on column created_at using expression grel:value.replace(\" UTC\", \"\").toDate()"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "updated_at",
+    "expression": "grel:value.replace(\" UTC\", \"\").toDate()",
+    "onError": "set-to-blank",
+    "newColumnName": "updated_at_date",
+    "columnInsertIndex": 8,
+    "description": "Create column updated_at_date at index 8 based on column updated_at using expression grel:value.replace(\" UTC\", \"\").toDate()"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "created_at_timeless",
+    "newColumnName": "created_at_date",
+    "description": "Rename column created_at_timeless to created_at_date"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "created_at_date",
+    "expression": "grel:value.replace(\" UTC\", \"\").toDate().datePart(\"year\")",
+    "onError": "set-to-blank",
+    "newColumnName": "created_at_year",
+    "columnInsertIndex": 7,
+    "description": "Create column created_at_year at index 7 based on column created_at_date using expression grel:value.replace(\" UTC\", \"\").toDate().datePart(\"year\")"
+  }
+]
