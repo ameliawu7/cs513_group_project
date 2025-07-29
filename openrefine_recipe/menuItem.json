@@ -118,5 +118,28 @@
     "newColumnName": "created_at_year",
     "columnInsertIndex": 7,
     "description": "Create column created_at_year at index 7 based on column created_at_date using expression grel:value.replace(\" UTC\", \"\").toDate().datePart(\"year\")"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "updated_at_date",
+    "expression": "grel:value.replace(\" UTC\", \"\").toDate().datePart(\"year\")",
+    "onError": "set-to-blank",
+    "newColumnName": "updated_at_year",
+    "columnInsertIndex": 10,
+    "description": "Create column updated_at_year at index 10 based on column updated_at_date using expression grel:value.replace(\" UTC\", \"\").toDate().datePart(\"year\")"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "created_at_date",
+    "description": "Remove column created_at_date"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "updated_at_date",
+    "description": "Remove column updated_at_date"
   }
 ]

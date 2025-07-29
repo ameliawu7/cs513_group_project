@@ -4895,5 +4895,6220 @@
       }
     ],
     "description": "Mass edit cells in column location_cleaned"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "event_cleaned",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "banquet in honor of the third annual convention of above",
+          "banquet in honor of above and othr members of the board of health",
+          "banquet in honor of charles w fairbanks vice president of u s",
+          "banquet in honor of congressmen from greater new york",
+          "banquet in honor of count ferdinand de lessups",
+          "banquet in honor of ferdinand w peck",
+          "banquet in honor of grand lodge officers",
+          "banquet in honor of hoo hoo",
+          "banquet in honor of judge peter s grosscup judge christian c kohlsaat",
+          "banquet in honor of k ishii",
+          "banquet in honor of kaiser wilhelm ii",
+          "banquet in honor of m j f perrault",
+          "banquet in honor of mr henry reynolds hatch",
+          "banquet in honor of rear admiral winfield scott schlet and commander washburn maynard",
+          "banquet in honor of s e il prof luigi rava minister of instruction",
+          "banquet in honor of the chicago commercial club and it guests from the boston cincinnati st louis commercial clubs",
+          "banquet in honor of the national association of railroad commissioners of the united states",
+          "banquet in honor of the visit of s m s moltke to new orleans",
+          "banquet in honor of visiting american brethren",
+          "banquet in honor of visitors of s m s vineta in new orleans",
+          "banquet in honor of william l strong mayor elect of ny city"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "banquet"
+      },
+      {
+        "from": [
+          "banquet tendered the members of the general assembly of kentucky",
+          "banquet tendered to dr william jarvie",
+          "banquet tendered to hon philip bloch in celebration of his election as secretary of the board of police magistrates",
+          "banquet tendered to hon samuel mc millan congressman elect 21st congressional district new york",
+          "banquet tendered to mr m m finley",
+          "banquet tendered to national league of commission merchants of the u s",
+          "banquet tendered to president arthur t hadley",
+          "banquet tendered to the national officers and delegates attending the annual congess sons of the american revolution",
+          "banquet tendered to the officers delegates and alternates of the american bowling congress and visiting members of the press",
+          "banquet tendered to the staffs of galveston houston texas",
+          "banquet tendered to the visiting bankers",
+          "banquet to international railway congress",
+          "banquet to international stewards association seventh annual convention",
+          "banquet to under sheriff henry p mulvany"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "banquet"
+      },
+      {
+        "from": [
+          "dinner tendered by members to the senior eight in honor of their victory in the senior eight oared shell race at the people s regatta held on the schuylkill river philadelphia on july 4 1906",
+          "dinner tendered to brooklyn lodge no 22",
+          "dinner tendered to captain john coooney",
+          "dinner tendered to delegates to the twentieth annual meeting of the nation civil service reform league",
+          "dinner tendered to his excellency",
+          "dinner tendered to hon john barrett",
+          "dinner tendered to judge henry a melvin",
+          "dinner tendered to maj gen francis vinton greene",
+          "dinner tendered to r w walter f sykes d dgm",
+          "dinner tendered to sergt howard c woodbury",
+          "dinner tendered to the captain and officers of the u s s louisiana"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "dinner in honor of the american tariff commission",
+          "dinner in honor of the birthday of king edward viii",
+          "dinner in honor of the governor his cabinet members of the legislature and the florida press association",
+          "dinner in honor of the hotel men s benefit association",
+          "dinner in honor of the lord bishop of london",
+          "dinner in honor of the ship s company of h m s good hope",
+          "dinner in honor of the ship s company of u s s louisiana",
+          "dinner in honor of the vice president of the united states and the visiting congressional committee",
+          "dinner on honor of the participants in the tour of the evening and sunday star s"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "dinner in honor of civil and military officials of the first three ranks",
+          "dinner in honor of s a r monseigneur le comte trapani",
+          "dinner in honor of s s packard s 70th bithday",
+          "dinner in honor of sir chentung liang cheng envoy to the united states",
+          "dinner in honor of supreme court justice charles grant garrison",
+          "dinner in honour of sir thomas lipton"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "dinner in honor of h i m mutsu hito 47th birthday",
+          "dinner in honor of marcus a hanna",
+          "dinner in honor of members of supreme council 33 ancient accepted scottish rite accompanying ladies",
+          "dinner in honor of most worshipful josiah w ewan grand master of masons of state of new jersey",
+          "dinner in honor of mr frank pollock",
+          "dinner in honor of mr theodore roosevelt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "dinner ito governor thomas m campbell",
+          "dinner to governor charles e magoon",
+          "dinner to governor elect edwin s stuart",
+          "dinner to governor gouls lt governor draper and the governor s council",
+          "dinner to governor hastings",
+          "dinner to govrrnor edward casper stokes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "dinner given to men of ny central hudson rr",
+          "dinner given to mr f w mann lieut a i r previous to his departure for south africa",
+          "dinner given to mr john l hill",
+          "dinner given to mr w w cotton",
+          "dinner given to municipal officers heads of departments of the city of new york"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "annual dinner of the 3rd battalion",
+          "annual dinner of the altoona staff",
+          "annual dinner of the new york alumni",
+          "annual dinner of the new york university alumni association",
+          "annual dinner of the section on nervous and mental diseases"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual dinner"
+      },
+      {
+        "from": [
+          "seventeenth annual banquet",
+          "seventeenth annual appomattox day banquet",
+          "seventeenth annual dinner",
+          "seventeenth annual dinner of the new york association of alumni",
+          "seventeenth annual social session"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual banquet"
+      },
+      {
+        "from": [
+          "dinner in honor of don ramon pina y millet",
+          "dinner in honor of dr d gabriel casuso",
+          "dinner in honor of duke abruzzi",
+          "dinner in honor of wu ting fan his imperial chinese majesty s envoy extraordinary and minister plenipotentiary to the united states spain and peru"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "dinner in honor of gen h g gibson",
+          "dinner in honor of george mcgown of palmyra ny",
+          "dinner in honor of james j hill pres of great northern rr",
+          "dinner in honor of john a mccall"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "dinner in honor of f hopkinson smith",
+          "dinner in honor of foreign officers",
+          "dinner in honor of frank e beal",
+          "dinner in honor of frank e roundy"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "dinner to her bridesmaids",
+          "dinner to robert c ogden given by those who worked under his leadership",
+          "dinner to robert t lincoln",
+          "dinner to robert townsend assistant district attorney new york county"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "dinner given at the seventeenth annual convention of the ohio bankers association",
+          "dinner given to the officers and representatives of the ames iron works",
+          "dinner given to their salesmen",
+          "dinner given to themselves"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "table d hote dinner",
+          "table de hote dinner fish dinner",
+          "table d hote dinner menu",
+          "table d hote dinner from 12 30 to 2 30 5 30 to 8 p m"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "banquet in celebration of 100th anniversary of founding",
+          "banquet in celebration of above",
+          "banquet in celebration of st patrick s day",
+          "banquet in celebration of washington s first inauguration"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "banquet"
+      },
+      {
+        "from": [
+          "farewell banquet to general horace porter",
+          "farewell banquet to hon thomas f bayard and mrs bayard",
+          "farewell banquet to the earl of aberdeen gov general of canada",
+          "farewell banquet to the s a bushmen s corps on the eve of their departure for south africa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "banquet"
+      },
+      {
+        "from": [
+          "ninth annual banquet",
+          "ninth annual banquest and meeting",
+          "ninth annual banquet for the honorable honore mercier"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "banquet"
+      },
+      {
+        "from": [
+          "dinner in honor of above",
+          "dinner in honor of pres mckinley members of the cabinet",
+          "dinner in honor of professor albert a michelson"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "dinner in honor of cornelius fergueson",
+          "dinner in honor of haakon vii when he received the order of the garter of windsor and england",
+          "dinner in honor of hakan johansen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "testimonial banquet",
+          "testimonial banquet to henty starr richardson",
+          "testimonial banquet to hon charles welde"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "testimonial banquet"
+      },
+      {
+        "from": [
+          "banquet to visiting citizens of knoxville",
+          "banquet to visiting congressmen and ladies",
+          "banquet to visiting grand masters"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "banquet"
+      },
+      {
+        "from": [
+          "dinner to the delegates of the international marine conference",
+          "dinner to the delegates of the national league of musicians",
+          "dinner to the delegates to the convention of the merchant tailor s national exchange of the united states of america"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "dinner to newspaper men who participated in the recent riot",
+          "dinner to newspaper pess of philadelphia and atlantic city",
+          "dinner to newspaper publicity men of philadelphia politics"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "dinner to 2500 delagates including missippi valley governors",
+          "dinner to delegates of the grandes compagnies francaises de chemins de fer",
+          "dinner to delegates of the pennsylvania bankers association"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "luncheon to the president",
+          "luncheon to the president fallieres of the republic",
+          "luncheon to the president of the united states the mississippi vlley governors and members of the inland waterways commission"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "luncheon"
+      },
+      {
+        "from": [
+          "anniversary dinner",
+          "anniversary dinner given to the staff of the post dispatch and other friends",
+          "anniversary dinner of the presentation of loving cup"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "anniversary dinner"
+      },
+      {
+        "from": [
+          "dinner to the president and board of directors of the pan american exposition",
+          "dinner to the president of the us the inland waterways commission",
+          "dinner to the press at the opening of new club house"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "dining car service meals",
+          "dining car service dinner",
+          "dining car service"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dining"
+      },
+      {
+        "from": [
+          "banquet to the officers of the cruiser baltimore",
+          "banquet to the visiting members of the national academy of sciences",
+          "banquet to the visiting press of the united states for the grand lodge reunion"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "banquet"
+      },
+      {
+        "from": [
+          "fourth annual banquet",
+          "fourth annual banquet of the team owners association",
+          "fourthy annual banquet celebrating the birth of st patrick"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual banquet"
+      },
+      {
+        "from": [
+          "eleventh annual dinner",
+          "eleventh annual dinner in commemoration of birth of thomas jeffrson"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual dinner"
+      },
+      {
+        "from": [
+          "luncheon for 120 guest",
+          "luncheon for guests of minnesota iron company"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "luncheon"
+      },
+      {
+        "from": [
+          "dinne",
+          "dinnwe"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "easter sunday lunch",
+          "easter sunday luncheon"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "lunch"
+      },
+      {
+        "from": [
+          "lunch on tour of the president to the pacific coast",
+          "luncheon tour of the pres to chicago the northwest"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "lunch"
+      },
+      {
+        "from": [
+          "third annual dinner",
+          "third annual dinner in commemoration of the 98th anniversary of the birth of abraham lincoln"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual dinner"
+      }
+    ],
+    "description": "Mass edit cells in column event_cleaned"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "event_cleaned",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "breakfast during trip to germanic museum cambridge mass",
+          "breakfast tour of the pres to chicago the northwest"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "breakfast"
+      },
+      {
+        "from": [
+          "twenty third annual banquet",
+          "twenty third annual dinner of the new york florist s club at the fifth avenue restaurant"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual banquet"
+      },
+      {
+        "from": [
+          "twenty second anniversary banquet",
+          "twenty second annual banquet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "anniversary banquet"
+      },
+      {
+        "from": [
+          "dinner given in honor of mr lucius e johnson",
+          "dinner given in honour of judge henry steinert"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "fourth of july dinner",
+          "fourth of july dinner menu"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "ninth annual dinner",
+          "ninth annual dinner of masters and past masters association"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "12th annual convention banquet",
+          "13th annual convention and banquet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual banquet"
+      },
+      {
+        "from": [
+          "testimonial dinner",
+          "testimonial dinner to dr nicholas senn master surgeon"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "testimonial dinner"
+      },
+      {
+        "from": [
+          "luncheon in honor of mrs manning",
+          "luncheon in honor of sir chentung liangcheng"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "luncheon"
+      },
+      {
+        "from": [
+          "123rd annual banquet",
+          "3rd annual banquet in honor of dr hubley r owen president and chief"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual banquet"
+      },
+      {
+        "from": [
+          "dinner to george c clark",
+          "dinner to george gray ward of the commercial pacific cable company"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "banquet for the opening of the new townhall",
+          "banquet for the president of the union"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "banquet"
+      },
+      {
+        "from": [
+          "banquet to deligates of city of london international commercial association",
+          "banquet to dlegates of the national municipal league"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "banquet"
+      },
+      {
+        "from": [
+          "sixth annual banquet",
+          "sixth annual banquet ball"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual banquet"
+      },
+      {
+        "from": [
+          "fifth annual dinner in honor of birth of alexander hamiltion",
+          "fifth annual dinner of the macdowell club of new york city"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual dinner"
+      },
+      {
+        "from": [
+          "banquet to national association of credit men",
+          "banquet to national brick manufacturers merican ceramic society national paving brick manufacturers assn national brick machinery amnufacturers assn"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "banquet"
+      },
+      {
+        "from": [
+          "twentieth annual dinner",
+          "twenty eighth annual dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual dinner"
+      },
+      {
+        "from": [
+          "banquet for john marshall day",
+          "banquet for john rooney and friends"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "banquet"
+      },
+      {
+        "from": [
+          "opening dinner",
+          "opening dinner of hotel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "dinner to honorable william potter united states minister to italy",
+          "dinner to honourable john b mcpherson"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "first annual banquet",
+          "first annual banquet and cotillon"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual banquet"
+      },
+      {
+        "from": [
+          "annual dinner in honor of bithday of benjamin franklin",
+          "annual dinner in honor of mr justice david j brewer of the supreme court of the united states"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual dinner"
+      },
+      {
+        "from": [
+          "personally conducted tour through mexico and calfiornia breakfast",
+          "personally conducted tour through mexico california"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "breakfast"
+      },
+      {
+        "from": [
+          "twenty fifth anniversary",
+          "twenty fifth annivesay o founding of club"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "anniversary"
+      },
+      {
+        "from": [
+          "farewell dinner to general powell clayton ambassador to mexico",
+          "farewell dinner to julian d fairchild"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "farewell dinner"
+      },
+      {
+        "from": [
+          "dinner to members from abroad",
+          "dinner to members of the boston army club"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "twenty sixth annual dinner",
+          "twenty sixth annual reception"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual dinner"
+      },
+      {
+        "from": [
+          "18th anniversary banquet",
+          "75th anniversary banquet and ball"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "anniversary banquet"
+      },
+      {
+        "from": [
+          "anniversary banquet",
+          "anniversary banquet of the great swamp fight"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "banquet"
+      },
+      {
+        "from": [
+          "dinner for the admiral of the navy",
+          "dinner for the democratic members elect from new york to the 56th congress"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "evening dinner",
+          "evening dinner menu"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "luncheon given to hon charles evans hughes governor of state of new york and robert b brown commander in chief of g a r",
+          "luncheon given to their american colleagues"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "luncheon"
+      },
+      {
+        "from": [
+          "luncheon given aboard in vera cruz harbor in honor of visiting delegates to the convention of the american public health association in mexico city",
+          "luncheon given by the irish fellowship club to william howard taft"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "luncheon"
+      },
+      {
+        "from": [
+          "reception dinner",
+          "reception dinner to mr william j bryan"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      }
+    ],
+    "description": "Mass edit cells in column event_cleaned"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "event_cleaned",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "fifth annual banquet",
+          "nineteenth annual banquet",
+          "fifteenth annual banquet",
+          "sixteenth annual banquet",
+          "thirteenth annual banquet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual banquet"
+      },
+      {
+        "from": [
+          "fifth annual banquet",
+          "twelfth annual banquet",
+          "fifteenth annual banquet",
+          "fifth annual ball",
+          "twenty fifth annual banquet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual banquet"
+      },
+      {
+        "from": [
+          "nineteenth annual banquet",
+          "fifteenth annual banquet",
+          "sixteenth annual ball",
+          "sixteenth annual banquet",
+          "thirteenth annual banquet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual banquet"
+      },
+      {
+        "from": [
+          "anniversary dinner",
+          "23rd anniversary dinner",
+          "98th anniversary dinner",
+          "first anniversary dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "anniversary dinner"
+      },
+      {
+        "from": [
+          "washington s birthday dinner",
+          "washington s birthday",
+          "washington s birthday repast",
+          "washington s birthday eve"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "nineteenth annual banquet",
+          "fifteenth annual banquet",
+          "sixteenth annual banquet",
+          "thirteenth annual banquet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual banquet"
+      },
+      {
+        "from": [
+          "washington s birthday dinner",
+          "washington s birthday",
+          "annual washington s birthday dinner",
+          "washington s birthday dinner menu"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "lunch dinner",
+          "lunch and dinner",
+          "lunch and or dinner",
+          "luncheon and dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "lunch dinner"
+      },
+      {
+        "from": [
+          "lunch dinner",
+          "lunch or dinner",
+          "lunch and dinner",
+          "brunch dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "lunch dinner"
+      },
+      {
+        "from": [
+          "fifth annual banquet",
+          "twelfth annual banquet",
+          "fifteenth annual banquet",
+          "twenty fifth annual banquet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual banquet"
+      },
+      {
+        "from": [
+          "fifth annual banquet",
+          "twelfth annual banquet",
+          "fifth annual ball",
+          "twenty fifth annual banquet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual banquet"
+      },
+      {
+        "from": [
+          "anniversary dinner",
+          "101st anniversary dinner",
+          "first anniversary dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "anniversary dinner"
+      },
+      {
+        "from": [
+          "lunch or dinner",
+          "lunch and dinner",
+          "lunch and or dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "lunch dinner"
+      },
+      {
+        "from": [
+          "semi annual meeting and dinner",
+          "annual meeting and dinner",
+          "annual meeting dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual meeting dinner"
+      },
+      {
+        "from": [
+          "20th annual meeting dinner",
+          "annual meeting and dinner",
+          "annual meeting dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual meeting dinner"
+      },
+      {
+        "from": [
+          "lunch and dinner",
+          "lunch and or dinner",
+          "luncheon and dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "lunch dinner"
+      },
+      {
+        "from": [
+          "washington s birthday dinner",
+          "annual washington s birthday dinner",
+          "washington s birthday dinner menu"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "annual meeting banquet",
+          "ninth annual meeting and banquet",
+          "annual meeting and banquet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual meeting banquet"
+      },
+      {
+        "from": [
+          "anniversary banquet",
+          "sixth anniversary banquet",
+          "sixth annual anniversary banquet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "anniversary banquet"
+      },
+      {
+        "from": [
+          "eighteenth annual dinner",
+          "eighth annual dinner",
+          "fifteenth annual dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual dinner"
+      },
+      {
+        "from": [
+          "fifth annual banquet",
+          "twenty fifth annual banquet",
+          "twenty first annual banquet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual banquet"
+      },
+      {
+        "from": [
+          "christmas dinner",
+          "30th christmas dinner",
+          "christmas day dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "annual meeting luncheon",
+          "124th annual meeting luncheon",
+          "annual meeting lunch"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual meeting luncheon"
+      },
+      {
+        "from": [
+          "fiftieth anniversary dinner",
+          "twentieth anniversary",
+          "twentieth anniversary dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "anniversary dinner"
+      },
+      {
+        "from": [
+          "17th annual reunion and dinner",
+          "fifteenth annual reunion and dinner",
+          "thirteenth annual reunion and dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual dinner"
+      },
+      {
+        "from": [
+          "98th anniversary dinner",
+          "fifth anniversary dinner",
+          "fiftieth anniversary dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "anniversary dinner"
+      },
+      {
+        "from": [
+          "sixteenth annual dinner",
+          "eighteenth annual dinner",
+          "fifteenth annual dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual dinner"
+      },
+      {
+        "from": [
+          "sixth annual dinner",
+          "sixteenth annual dinner",
+          "fifteenth annual dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual dinner"
+      },
+      {
+        "from": [
+          "nineteenth annual banquet",
+          "fifteenth annual banquet",
+          "sixteenth annual banquet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual banquet"
+      },
+      {
+        "from": [
+          "fifth anniversary dinner",
+          "fiftieth anniversary dinner",
+          "twentieth anniversary dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "anniversary dinner"
+      },
+      {
+        "from": [
+          "table d hote",
+          "table d hote meal",
+          "table d hote menu"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "table d hote"
+      },
+      {
+        "from": [
+          "lunch dinner",
+          "lunch or dinner",
+          "lunch and or dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "lunch dinner"
+      },
+      {
+        "from": [
+          "anniversary dinner",
+          "98th anniversary dinner",
+          "fifth anniversary dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "anniversary dinner"
+      },
+      {
+        "from": [
+          "fifteenth annual banquet",
+          "sixteenth annual banquet",
+          "thirteenth annual banquet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual banquet"
+      },
+      {
+        "from": [
+          "collation to hotel men s mutual benefit association",
+          "luncheon to hotel men s mutual benefit association",
+          "luncheon to hotel men s mutual benefit association ladies"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "luncheon"
+      },
+      {
+        "from": [
+          "3rd annual convention",
+          "second annual convention",
+          "third annual convention"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual convention"
+      },
+      {
+        "from": [
+          "twentieth anniversary",
+          "twentieth anniversary dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "anniversary"
+      },
+      {
+        "from": [
+          "table d hote",
+          "table d hote meal"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "table d hote"
+      },
+      {
+        "from": [
+          "washington s birthday",
+          "washington s birthday eve"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "twenty fifth annual banquet",
+          "twenty first annual banquet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual banquet"
+      },
+      {
+        "from": [
+          "eighteenth annual dinner",
+          "eighth annual dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual dinner"
+      },
+      {
+        "from": [
+          "luncheon tendered to hon william jennings bryan",
+          "luncheon to hon william jennings bryan"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "luncheon"
+      },
+      {
+        "from": [
+          "annual meeting luncheon",
+          "annual meeting lunch"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual meeting luncheon"
+      },
+      {
+        "from": [
+          "sixth anniversary banquet",
+          "sixth annual anniversary banquet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "anniversary banquet"
+      },
+      {
+        "from": [
+          "washington s birthday dinner",
+          "washington s birthday dinner menu"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "christmas dinner",
+          "christmas day dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "15nth burns anniversary",
+          "ninth burns anniversary"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "anniversary"
+      },
+      {
+        "from": [
+          "bill of fare breakfast supper",
+          "breakfast and supper bill of fare"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "breakfast supper"
+      },
+      {
+        "from": [
+          "washington s birthday",
+          "washington s birthday repast"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "thanksgiving dinner",
+          "thanksgiving day dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "semi annual meeting and dinner",
+          "annual meeting and dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual meeting dinner"
+      },
+      {
+        "from": [
+          "fiftieth anniversary dinner",
+          "twentieth anniversary dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "anniversary dinner"
+      },
+      {
+        "from": [
+          "breakfast lunch dinner",
+          "breakfast lunch and dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "breakfast lunch dinner"
+      },
+      {
+        "from": [
+          "home dinner",
+          "shore dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "first annual dinner",
+          "twenty first annual dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual dinner"
+      },
+      {
+        "from": [
+          "table d hote meal",
+          "table d hote menu"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "table d hote"
+      },
+      {
+        "from": [
+          "semi annual dinner",
+          "5th semi annual dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual dinner"
+      },
+      {
+        "from": [
+          "eighteenth annual dinner",
+          "fifteenth annual dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual dinner"
+      },
+      {
+        "from": [
+          "fifth annual banquet",
+          "twenty fifth annual banquet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual banquet"
+      },
+      {
+        "from": [
+          "luncheon to hotel men s mutual benefit association",
+          "luncheon to hotel men s mutual benefit association ladies"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "luncheon"
+      },
+      {
+        "from": [
+          "annual meeting banquet",
+          "annual meeting and banquet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual meeting banquet"
+      },
+      {
+        "from": [
+          "centenial anniversary dinner",
+          "centennial anniversary"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "anniversary dinner"
+      },
+      {
+        "from": [
+          "buffet car service breakfast",
+          "buffet service breakfast"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "breakfast"
+      },
+      {
+        "from": [
+          "luncheon visit of colonial prime ministers to the city of london",
+          "visit of colonial prime ministers to the city of london"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "luncheon"
+      },
+      {
+        "from": [
+          "fifth annual banquet",
+          "twelfth annual banquet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual banquet"
+      },
+      {
+        "from": [
+          "20th annual meeting dinner",
+          "annual meeting dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual meeting dinner"
+      },
+      {
+        "from": [
+          "reunion and dinner",
+          "reunion dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "daily menu breakfast",
+          "daily breakfast"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "breakfast"
+      },
+      {
+        "from": [
+          "washington s birthday dinner",
+          "annual washington s birthday dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "98th anniversary dinner",
+          "fifth anniversary dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "anniversary dinner"
+      },
+      {
+        "from": [
+          "lunch presidential tour to the pacific coast",
+          "presidential tour to the pacific coast"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "lunch"
+      },
+      {
+        "from": [
+          "anniversary banquet",
+          "sixth anniversary banquet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "anniversary banquet"
+      },
+      {
+        "from": [
+          "ninth annual meeting and banquet",
+          "annual meeting and banquet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual meeting banquet"
+      },
+      {
+        "from": [
+          "fifth annual banquet",
+          "fifth annual ball"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual banquet"
+      },
+      {
+        "from": [
+          "evening meal",
+          "evening menu"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "lunch a la carte held by nordeutscher lloyd bremen at on board ss berlin",
+          "lunch a la carte held by nordeutscher lloyd bremen at on board ss george washington"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "lunch"
+      },
+      {
+        "from": [
+          "quick luncheon afternoon tea",
+          "quick luncheon and afternoon tea"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "luncheon afternoon tea"
+      },
+      {
+        "from": [
+          "third annual banquet",
+          "third annual ball"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual banquet"
+      },
+      {
+        "from": [
+          "daily menu",
+          "daily menu tea"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "daily menu"
+      },
+      {
+        "from": [
+          "dinner to stick togethr club",
+          "dinner to the stick together club"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "lunch and dinner",
+          "lunch and or dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "lunch dinner"
+      },
+      {
+        "from": [
+          "cafe half portion breakfast",
+          "half portion breakfast"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "breakfast"
+      },
+      {
+        "from": [
+          "new years day dinner",
+          "new years dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "lunch or dinner",
+          "lunch and or dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "lunch dinner"
+      },
+      {
+        "from": [
+          "sixteenth annual dinner",
+          "fifteenth annual dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual dinner"
+      },
+      {
+        "from": [
+          "christmas dinner",
+          "30th christmas dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "anniversary dinner",
+          "23rd anniversary dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "anniversary dinner"
+      },
+      {
+        "from": [
+          "157th anniversary of birthday of washington",
+          "159th anniversary of washington s birth"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "anniversary"
+      },
+      {
+        "from": [
+          "lunch and dinner",
+          "luncheon and dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "lunch dinner"
+      },
+      {
+        "from": [
+          "annual fines dinner",
+          "the annual fines dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual dinner"
+      },
+      {
+        "from": [
+          "luncheon dejeuner fourchette",
+          "dejeuner fourchette"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "luncheon"
+      },
+      {
+        "from": [
+          "daily menu luncheon",
+          "daily lunch menu"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "luncheon"
+      },
+      {
+        "from": [
+          "17th annual festival",
+          "annual festival"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual festival"
+      },
+      {
+        "from": [
+          "sixth annual dinner",
+          "sixteenth annual dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual dinner"
+      },
+      {
+        "from": [
+          "luncheon second cabin",
+          "lunch second cabin"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "luncheon"
+      },
+      {
+        "from": [
+          "regular meeting",
+          "95th regular meeting"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "meeting"
+      },
+      {
+        "from": [
+          "eighth annual banquet",
+          "eightenth annual banquet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual banquet"
+      },
+      {
+        "from": [
+          "dinner on special train for sec y of war elihu root and party",
+          "luncheon on special train for sec y of war elihu root and party"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "saint nicholas day",
+          "saint nicholas day dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "dinner"
+      },
+      {
+        "from": [
+          "annual meeting luncheon",
+          "124th annual meeting luncheon"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual meeting luncheon"
+      },
+      {
+        "from": [
+          "3rd annual convention",
+          "third annual convention"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual convention"
+      },
+      {
+        "from": [
+          "3rd annual convention",
+          "second annual convention"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual convention"
+      },
+      {
+        "from": [
+          "seventh annual dinner",
+          "tenth annual dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual dinner"
+      },
+      {
+        "from": [
+          "seventh annual banquet",
+          "eleventh annual banquet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual banquet"
+      },
+      {
+        "from": [
+          "101st anniversary dinner",
+          "first anniversary dinner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "anniversary dinner"
+      },
+      {
+        "from": [
+          "banquet and reception",
+          "annual banquet and reception"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "banquet reception"
+      },
+      {
+        "from": [
+          "breakfast dinner menu",
+          "daily breakfast dinner menu"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "breakfast dinner"
+      },
+      {
+        "from": [
+          "sixteenth annual ball",
+          "sixteenth annual banquet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "annual ball"
+      }
+    ],
+    "description": "Mass edit cells in column event_cleaned"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "event_cleaned",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "breakfast and supper",
+          "breakfast supper",
+          "breakfast supper menu"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "breakfast supper"
+      },
+      {
+        "from": [
+          "fourth of july",
+          "fourth of july menu"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "fourth of july"
+      },
+      {
+        "from": [
+          "fruhstuck lunch",
+          "fruhstuck luncheon"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "fruhstuck lunch"
+      },
+      {
+        "from": [
+          "commemoration of the birthdaay of abraham lincoln",
+          "in commemoration of the birthday of abraham lincoln"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "commemoration"
+      },
+      {
+        "from": [
+          "breakfast supper",
+          "breakfast supper menu"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "breakfast supper"
+      },
+      {
+        "from": [
+          "breakfast and supper",
+          "breakfast supper"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "breakfast supper"
+      }
+    ],
+    "description": "Mass edit cells in column event_cleaned"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "event_cleaned",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "thanksgiving day menu",
+          "thanksgiving menu"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "thanksgiving day"
+      }
+    ],
+    "description": "Mass edit cells in column event_cleaned"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_cleaned",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "DELMONICO S, NEW YORK, NY",
+          "DELMONICO S, NEW YORK, N Y",
+          "DELMONICOS, NEW YORK, N Y",
+          "DELMONICOS, NEW YORK, NY",
+          "DELMONICO S, NEW YORK,N Y",
+          "DELMONICO S,NEW YORK NY",
+          "DELMONICO S,NEW YORK,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "NARRAGANSETT PIER R I",
+          "NARRAGANSETT PIER, RI",
+          "NARAGANSETT PIER, RI",
+          "NARRAGANSETT PIER,R I",
+          "NARRAGANSETT PIER,RI"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NARRAGANSETT PIER, RI"
+      },
+      {
+        "from": [
+          "HOTEL IROQUOIS, BUFFALO, NY",
+          "HOTEL IROQUOIS, BUFFALO,NY",
+          "HOTEL IROQUOIS, BUFFALO,N Y",
+          "HOTEL IROQUOIS,BUFFALO,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BUFFALO, NY"
+      },
+      {
+        "from": [
+          "NASSAU, N P BAHAMAS",
+          "NASSAU,N P BAHAMAS",
+          "NASSAU,NP,BAHAMAS",
+          "NASSAU,NP BAHAMAS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NASSAU, NP, BAHAMAS"
+      },
+      {
+        "from": [
+          "DELMONICO S, NY",
+          "DELMONICO S,NY",
+          "DELMONICOS, NY",
+          "DELMONICO S, N Y"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DELMONICOS, NY"
+      },
+      {
+        "from": [
+          "WASHINGTON, DC",
+          "WASHINGTON,D C",
+          "WASHINGTON, D C",
+          "WASHINGTON,DC"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "WASHINGTON, DC"
+      },
+      {
+        "from": [
+          "LONG BEACH, L I, NY",
+          "LONG BEACH, LI, NY",
+          "LONG BEACH,L I , NY",
+          "LONG BEACH,LI, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "LONG BEACH, LI, NY"
+      },
+      {
+        "from": [
+          "NASSAU, N P",
+          "NASSAU,N P",
+          "NASSAU, NP"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NASSAU, NP"
+      },
+      {
+        "from": [
+          "MIAMI BISCAYNE BAY,FLA",
+          "MIAMI BISCAYNE BAY, FLA",
+          "MIAMI,BISCAYNE BAY,FLA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MIAMI, FL"
+      },
+      {
+        "from": [
+          "WALDORF ASTORIA, THE, NEW YORK, NY",
+          "WALDORF ASTORIA,THE, NEW YORK, NY",
+          "WALDORF ASTORIA,THE, NEW YORK,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "THE ARLINGTON WASHINGTON, DC",
+          "THE ARLINGTON, WASHINGTON, D C",
+          "THE ARLINGTON, WASHINGTON,DC"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "WASHINGTON, DC"
+      },
+      {
+        "from": [
+          "ARGYLE, THE, BROOKLYN, NY",
+          "ARGYLE,THE, BROOKLYN,NY",
+          "ARGYLE,THE,BROOKLYN,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BROOKLYN, NY"
+      },
+      {
+        "from": [
+          "SOUTHERN HOTEL, ST LOUIS, MO",
+          "SOUTHERN HOTEL, ST LOUIS,MO",
+          "SOUTHERN HOTEL,ST LOUIS,MO"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ST LOUIS, MO"
+      },
+      {
+        "from": [
+          "FANEUIL HALL, BOSTON, MASS",
+          "FANEUIL HALL, BOSTON,MASS",
+          "FANEUIL HALL,BOSTON,MASS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BOSTON, MA"
+      },
+      {
+        "from": [
+          "ATLANTIC CITY, NJ",
+          "ATLANTIC CITY,NJ",
+          "ATLANTIC CITY, N J"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ATLANTIC CITY, NJ"
+      },
+      {
+        "from": [
+          "MANILA, P I",
+          "MANILA, PI",
+          "MANILA,P I"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MANILA, PI"
+      },
+      {
+        "from": [
+          "PROVIDENCE, RI",
+          "PROVIDENCE, R I",
+          "PROVIDENCE,RI"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PROVIDENCE, RI"
+      },
+      {
+        "from": [
+          "117 WEST 34TH STREET,NEW YORK,NY",
+          "117 WEST 34TH STREET, NEW YORK,NY",
+          "117WEST 34TH STREET,NEW YORK,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK,NY"
+      },
+      {
+        "from": [
+          "HOTEL WALTON, PHILADELPHIA PA",
+          "HOTEL WALTON, PHILADELPHIA,PA",
+          "HOTEL WALTON,PHILADELPHIA,PA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PHILADELPHIA, PA"
+      },
+      {
+        "from": [
+          "ST CHARLES HOTEL, NEW ORLEANS LA",
+          "ST CHARLES HOTEL,NEW ORLEANS, LA",
+          "ST CHARLES HOTEL,NEW ORLEANS,LA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW ORLEANS, LA"
+      },
+      {
+        "from": [
+          "CHICAGO,ILL",
+          "CHICAGO, ILL"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CHICAGO,IL"
+      },
+      {
+        "from": [
+          "HOBOKEN, NJ",
+          "HOBOKEN,NJ"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "HOBOKEN, NJ"
+      },
+      {
+        "from": [
+          "57 BROAD STREET, NEW YORK, NY",
+          "57 BROAD STREET,NEW YORK,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "COPENHAGEN, DENMARK",
+          "COPENHAGEN,DENMARK"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "COPENHAGEN, DENMARK"
+      },
+      {
+        "from": [
+          "BUCKINGHAM PALACE, LONDON, ENGLAND",
+          "BUCKINGHAM PALACE, LONDON,ENGLAND"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "LONDON, ENGLAND"
+      },
+      {
+        "from": [
+          "ST NICHOLAS HOTEL, ST LOUIS, MO",
+          "ST NICHOLAS HOTEL,ST LOUIS,MO"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ST LOUIS, MO"
+      },
+      {
+        "from": [
+          "66TH ST AND BROADWAY,NEW YORK,NY",
+          "66TH ST AND BROADWAY NEW YORK,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK,NY"
+      },
+      {
+        "from": [
+          "WHITE MOUNTAINS, NH",
+          "WHITE MOUNTAINS,N H"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "WHITE MOUNTAINS, NH"
+      },
+      {
+        "from": [
+          "WALDORF ASTORIA, NEW YORK, NY",
+          "WALDORF ASTORIA,NEW YORK,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "GRAND HOTEL, LONDON, ENGLAND",
+          "GRAND HOTEL,LONDON, ENGLAND"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "LONDON, ENGLAND"
+      },
+      {
+        "from": [
+          "EN ROUTE ABOARD DAMPFER FRIEDRICH DER GROSSE",
+          "EN ROUTE ABOARD DAMPFER FRIEDRICH DER GROSSER"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "EN ROUTE ABOARD DAMPFER FRIEDRICH DER GROSSE"
+      },
+      {
+        "from": [
+          "CLEVELAND,OHIO",
+          "CLEVELAND, OHIO"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CLEVELAND, OHIO"
+      },
+      {
+        "from": [
+          "R M S CAMPANIA",
+          "RMS CAMPANIA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "R M S CAMPANIA"
+      },
+      {
+        "from": [
+          "ROANOKE, VA",
+          "ROANOKE,VA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ROANOKE, VA"
+      },
+      {
+        "from": [
+          "S S NACOOCHEE",
+          "SS NACOOCHEE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "S S NACOOCHEE"
+      },
+      {
+        "from": [
+          "SHERRY S NY",
+          "SHERRYS, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SHERRYS, NY"
+      },
+      {
+        "from": [
+          "CORONADA BEACH, CA",
+          "CORONADA BEACH,CA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CORONADA BEACH, CA"
+      },
+      {
+        "from": [
+          "ST LOUIS, MO",
+          "ST LOUIS,MO"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ST LOUIS, MO"
+      },
+      {
+        "from": [
+          "OCEAN HOUSE, NEWPORT, RI",
+          "OCEAN HOUSE,NEWPORT,R I"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEWPORT, RI"
+      },
+      {
+        "from": [
+          "THE AUDITORIUM, CHICAGO,ILL",
+          "THE AUDITORIUM,CHICAGO,ILL"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " CHICAGO, IL"
+      },
+      {
+        "from": [
+          "HOTEL ST GEORGE,NYACK ON HUDSON, NY",
+          "HOTEL ST GEORGE,NYACK ON HUDSON,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NYACK ON HUDSON, NY"
+      },
+      {
+        "from": [
+          "MORELLO S, NEW YORK, NY",
+          "MORELLO S,NEW YORK, N Y"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "OLD POINT COMFORT, VA",
+          "OLD POINT COMFORT,VA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "OLD POINT COMFORT, VA"
+      },
+      {
+        "from": [
+          "PALACE HOTEL, SAN FRANCISCO, CA",
+          "PALACE HOTEL, SAN FRANCISCO, CAL"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SAN FRANCISCO, CA"
+      },
+      {
+        "from": [
+          "SYRACUSE, NY",
+          "SYRACUSE,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SYRACUSE, NY"
+      },
+      {
+        "from": [
+          "PLANTERS HOTEL, ST LOUIS, MO",
+          "PLANTERS HOTEL, ST LOUIS,MO"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ST LOUIS, MO"
+      },
+      {
+        "from": [
+          "LONDON, ENGLAND",
+          "LONDON,ENGLAND"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "LONDON, ENGLAND"
+      },
+      {
+        "from": [
+          "LUZERN, SWITZERLAND",
+          "LUZERN,SWITZERLAND"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "LUZERN, SWITZERLAND"
+      },
+      {
+        "from": [
+          "PORTLAND, OR",
+          "PORTLAND,OR"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PORTLAND, OR"
+      },
+      {
+        "from": [
+          "HOTEL COCHRAN, WASHINGTON DC",
+          "HOTEL COCHRAN, WASHINGTON,D C"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "WASHINGTON DC"
+      },
+      {
+        "from": [
+          "SOUTH POLAND, ME",
+          "SOUTH POLAND,ME"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SOUTH POLAND, ME"
+      },
+      {
+        "from": [
+          "QUEBEC, CANADA",
+          "QUEBEC,CANADA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "QUEBEC, CANADA"
+      },
+      {
+        "from": [
+          "SS KASUGA",
+          "S S KASUGA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SS KASUGA"
+      },
+      {
+        "from": [
+          "SAN FRANCISCO, CA",
+          "SAN FRANCISCO,CA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SAN FRANCISCO, CA"
+      },
+      {
+        "from": [
+          "HOTEL BRUNSWICK, NY",
+          "HOTEL BRUNSWICK,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NY"
+      },
+      {
+        "from": [
+          "HOFFMAN HOUSE, NEW YORK, NY",
+          "HOFFMAN HOUSE,NEW YORK,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "CHATTANOOGA, TN",
+          "CHATTANOOGA,TN"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CHATTANOOGA, TN"
+      },
+      {
+        "from": [
+          "EN ROUTE STEAMER FURST BISMARCK",
+          "ENROUTE STEAMER FURST BISMARCK"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "EN ROUTE STEAMER FURST BISMARCK"
+      },
+      {
+        "from": [
+          "WACO, TX",
+          "WACO,TX"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "WACO, TX"
+      },
+      {
+        "from": [
+          "SS KAISER WILHELM DER GROSSE",
+          "S S KAISER WILHELM DER GROSSE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SS KAISER WILHELM DER GROSSE"
+      },
+      {
+        "from": [
+          "CLINTON COUNTY, NY",
+          "CLINTON COUNTY,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CLINTON COUNTY, NY"
+      },
+      {
+        "from": [
+          "SS CITY OF PARA",
+          "S S CITY OF PARA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SS CITY OF PARA"
+      },
+      {
+        "from": [
+          "TORONTO, CANADA",
+          "TORONTO,CANADA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "TORONTO, CANADA"
+      },
+      {
+        "from": [
+          "R M S ETRURIA",
+          "RMS ETRURIA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "R M S ETRURIA"
+      },
+      {
+        "from": [
+          "SS CITY OF RIO DE JANEIRO",
+          "S S CITY OF RIO DE JANEIRO"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SS CITY OF RIO DE JANEIRO"
+      },
+      {
+        "from": [
+          "LOS ANGELES,CA",
+          "LOS ANGELES, CA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "LOS ANGELES,CA"
+      },
+      {
+        "from": [
+          "SS FRIESLAND",
+          "S S FRIESLAND"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SS FRIESLAND"
+      },
+      {
+        "from": [
+          "AMSTERDAM, HOLLAND",
+          "AMSTERDAM,HOLLAND"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "AMSTERDAM, HOLLAND"
+      },
+      {
+        "from": [
+          "BALTIMORE, MD",
+          "BALTIMORE,MD"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BALTIMORE, MD"
+      },
+      {
+        "from": [
+          "HELENA, MT",
+          "HELENA,MT"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "HELENA, MT"
+      },
+      {
+        "from": [
+          "EN ROUTE EXPRESS STEAMER FURST BISMARCK",
+          "ENROUTE EXPRESS STEAMER FURST BISMARCK"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "EN ROUTE EXPRESS STEAMER FURST BISMARCK"
+      },
+      {
+        "from": [
+          "ST AUGUSTINE, FL",
+          "ST AUGUSTINE,FL"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ST AUGUSTINE, FL"
+      },
+      {
+        "from": [
+          "UNION SQUARE, NY",
+          "UNION SQUARE,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "UNION SQUARE, NY"
+      },
+      {
+        "from": [
+          "PHILADELPHIA, PA",
+          "PHILADELPHIA,PA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PHILADELPHIA, PA"
+      },
+      {
+        "from": [
+          "EN ROUTE STEAMER AUGUSTE VICTORIA",
+          "ENROUTE STEAMER AUGUSTE VICTORIA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "EN ROUTE STEAMER AUGUSTE VICTORIA"
+      },
+      {
+        "from": [
+          "CHAMBERLIN S WASHINGTON,DC",
+          "CHAMBERLIN S, WASHINGTON,D C"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "WASHINGTON, DC"
+      },
+      {
+        "from": [
+          "EN ROUTE ABOARD S S SOUTHWARK",
+          "ENROUTE ABOARD S S SOUTHWARK"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "EN ROUTE ABOARD S S SOUTHWARK"
+      },
+      {
+        "from": [
+          "NEW YORK, NY",
+          "NEW YORK,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "137 E MADISON ST ,CHICAGO,ILL",
+          "137 E MADISON ST CHICAGO, ILL"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CHICAGO,ILL"
+      },
+      {
+        "from": [
+          "BROADWAY, NY",
+          "BROADWAY,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BROADWAY, NY"
+      },
+      {
+        "from": [
+          "ST LOUIS CLUB, ST LOUIS,MO",
+          "ST LOUIS CLUB, ST LOUIS, MO"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ST LOUIS, MO"
+      },
+      {
+        "from": [
+          "CHATTANOOGA,TENN",
+          "CHATTANOOGA, TENN"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CHATTANOOGA,TN"
+      },
+      {
+        "from": [
+          "BOSTON, MA",
+          "BOSTON,MA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BOSTON, MA"
+      },
+      {
+        "from": [
+          "STEAMSHIP KAISER WILHELM DER GROSSE",
+          "STEAMSHIP KAISER WILHELM DER GROSSER"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "STEAMSHIP KAISER WILHELM DER GROSSE"
+      },
+      {
+        "from": [
+          "HOTEL DEL CAMPIDOGLIO, NEW YORK, NY",
+          "HOTEL DEL CAMPIDOGLIO, NEW YORK, N Y"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "MURRAY HILL HOTEL,NY",
+          "MURRAY HILL HOTEL NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NY"
+      },
+      {
+        "from": [
+          "CECIL HOTEL, LONDON, ENGLAND",
+          "CECIL HOTEL,LONDON,ENGLAND"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "LONDON, ENGLAND"
+      },
+      {
+        "from": [
+          "ST AUGUSTINE,FLA",
+          "ST AUGUSTINE, FLA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ST AUGUSTINE, FL"
+      },
+      {
+        "from": [
+          "SPRINGFIELD,MASS",
+          "SPRINGFIELD, MASS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SPRINGFIELD, MA"
+      },
+      {
+        "from": [
+          "SS DORIC",
+          "S S DORIC"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SS DORIC"
+      },
+      {
+        "from": [
+          "ALBANY, NY",
+          "ALBANY,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ALBANY, NY"
+      },
+      {
+        "from": [
+          "DENVER, COLO",
+          "DENVER,COLO"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DENVER, CO"
+      },
+      {
+        "from": [
+          "VIRGINIA BEACH, VA",
+          "VIRGINIA BEACH,VA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "VIRGINIA BEACH, VA"
+      },
+      {
+        "from": [
+          "BWAY 63RD ST NY",
+          "B WAY 63RD ST NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NY"
+      },
+      {
+        "from": [
+          "COLUMBUS, OHIO",
+          "COLUMBUS,OHIO"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "COLUMBUS, OH"
+      },
+      {
+        "from": [
+          "DELMONICO, NEW YORK, NY",
+          "DELMONICO,NEW YORK NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "UNION LEAGUE PHILADELPHIA, PA",
+          "UNION LEAGUE, PHILADELPHIA,PA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PHILADELPHIA, PA"
+      },
+      {
+        "from": [
+          "HOFFMAN HOUSE, MADISON SQUARE, NY",
+          "HOFFMAN HOUSE,MADISON SQUARE,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MADISON SQUARE, NY"
+      },
+      {
+        "from": [
+          "TREMONT TEMPLE, BOSTON, MASS",
+          "TREMONT TEMPLE,BOSTON MASS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BOSTON, MA"
+      },
+      {
+        "from": [
+          "DEEMING HALL, ITHACA, NY",
+          "DEEMING HALL,ITHACA,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ITHACA, NY"
+      },
+      {
+        "from": [
+          "R M S LUCANIA",
+          "RMS LUCANIA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "R M S LUCANIA"
+      },
+      {
+        "from": [
+          "EN ROUTE ABOARD S S FRIESLAND",
+          "EN ROUTE ABOARD SS FRIESLAND"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "EN ROUTE ABOARD S S FRIESLAND"
+      },
+      {
+        "from": [
+          "LINCOLN CLUB BROOKLYN, NY",
+          "LINCOLN CLUB,BROOKLYN,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BROOKLYN, NY"
+      },
+      {
+        "from": [
+          "TOKYO, JAPAN",
+          "TOKYO,JAPAN"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "TOKYO, JAPAN"
+      },
+      {
+        "from": [
+          "BROOKLYN, NY",
+          "BROOKLYN,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BROOKLYN, NY"
+      },
+      {
+        "from": [
+          "FARGO, NORTH DAKOTA",
+          "FARGO,NORTH DAKOTA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "FARGO, ND"
+      },
+      {
+        "from": [
+          "STEAMSHIP NORTH WEST",
+          "STEAMSHIP NORTHWEST"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "STEAMSHIP NORTH WEST"
+      },
+      {
+        "from": [
+          "374 FIFTH AVENUE, NY, NY",
+          "374 FIFTH AVENUE, NY,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "PORTLAND, ME",
+          "PORTLAND,ME"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PORTLAND, ME"
+      },
+      {
+        "from": [
+          "U S M S NEW YORK",
+          "USMS NEW YORK"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "BERGEN, NORWAY",
+          "BERGEN,NORWAY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BERGEN, NORWAY"
+      },
+      {
+        "from": [
+          "THE COCHRAN, WASHINGTON, DC",
+          "THE COCHRAN, WASHINGTON,D C"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "WASHINGTON, DC"
+      },
+      {
+        "from": [
+          "ARCANUM HALL,ELIZABETH NJ",
+          "ARCANUM HALL,ELIZABETH,NJ"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ELIZABETH, NJ"
+      },
+      {
+        "from": [
+          "YOUNG S HOTEL, BOSTON, MA",
+          "YOUNGS HOTEL,BOSTON,MA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BOSTON, MA"
+      },
+      {
+        "from": [
+          "BERLIN, GERMANY",
+          "BERLIN,GERMANY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BERLIN, GERMANY"
+      },
+      {
+        "from": [
+          "THE WALNUT ROOMS, THE GRAND HOTEL, TRAFALGAR SQUARE, LONDON, ENGLAND",
+          "THE WALNUT ROOMS THE GRAND HOTEL, TRAFALGAR SQUARE, LONDON,ENGLAND"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "LONDON, ENGLAND"
+      },
+      {
+        "from": [
+          "TAMPA, FL",
+          "TAMPA,FL"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "TAMPA, FL"
+      },
+      {
+        "from": [
+          "ALTOONA, PA",
+          "ALTOONA,PA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ALTOONA, PA"
+      },
+      {
+        "from": [
+          "SS TRINIDAD",
+          "S S TRINIDAD"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SS TRINIDAD"
+      },
+      {
+        "from": [
+          "GRAND HOTEL, MELBOURNE",
+          "GRAND HOTEL,MELBOURNE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MELBOURNE"
+      },
+      {
+        "from": [
+          "SARATOGA SPRINGS, NY",
+          "SARATOGA SPRINGS,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NY"
+      },
+      {
+        "from": [
+          "HOTEL SAVOY, NEW YORK, NY",
+          "HOTEL SAVOY,NEW YORK,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "S S ZEALANDIA",
+          "SS ZEALANDIA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "S S ZEALANDIA"
+      },
+      {
+        "from": [
+          "MIAMI BISCAYNE BAY, FL",
+          "MIAMI BISCAYNE BAY,FL"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MIAMI BISCAYNE BAY, FL"
+      },
+      {
+        "from": [
+          "DWLMONICO S NY",
+          "DWLMONICO S,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DWLMONICOS, NY"
+      },
+      {
+        "from": [
+          "WEST END HOTEL, NEW ORLEANS, LA",
+          "WEST END HOTEL, NEW ORLEANS,LA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW ORLEANS, LA"
+      },
+      {
+        "from": [
+          "DELMONICO S",
+          "DELMONICOS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DELMONICOS"
+      },
+      {
+        "from": [
+          "SHANLEY S, NY",
+          "SHANLEY S,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SHANLEYS, NY"
+      },
+      {
+        "from": [
+          "PALAIS ROYAL CHRISTIANIA,NORWAY",
+          "PALAIS ROYAL, CHRISTIANIA, NORWAY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NORWAY"
+      },
+      {
+        "from": [
+          "ALBANY CLUB ALBANY,NY",
+          "ALBANY CLUB, ALBANY, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ALBANY, NY"
+      },
+      {
+        "from": [
+          "PINEHURST,N C",
+          "PINEHURST, NC"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PINEHURST, NC"
+      },
+      {
+        "from": [
+          "HOTEL ST GEORGE, NYACK, NY",
+          "HOTEL ST GEORGE,NYACK,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NYACK, NY"
+      },
+      {
+        "from": [
+          "BUFFALO, NY",
+          "BUFFALO,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BUFFALO, NY"
+      },
+      {
+        "from": [
+          "ROME, ITALY",
+          "ROME,ITALY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ROME, ITALY"
+      },
+      {
+        "from": [
+          "CINCINNATI, OH",
+          "CINCINNATI,OH"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CINCINNATI, OH"
+      },
+      {
+        "from": [
+          "CATARACT HOUSE, NIAGARA FALLS, NY",
+          "CATARACT HOUSE,NIAGARA FALLS,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NIAGARA FALLS, NY"
+      },
+      {
+        "from": [
+          "TAYLOR S HOTEL, JERSEY CITY NJ",
+          "TAYLOR S HOTEL, JERSEY CITY, N J"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "JERSEY CITY, NJ"
+      },
+      {
+        "from": [
+          "TAMPA, FLORIDA",
+          "TAMPA,FLORIDA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "TAMPA, FL"
+      },
+      {
+        "from": [
+          "MELBOURNE, AUSTRALIA",
+          "MELBOURNE,AUSTRALIA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MELBOURNE, AUSTRALIA"
+      },
+      {
+        "from": [
+          "MONTREAL CANADA",
+          "MONTREAL,CANADA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MONTREAL, CANADA"
+      },
+      {
+        "from": [
+          "RECTOR S ,NY",
+          "RECTOR S,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "RECTORS, NY"
+      },
+      {
+        "from": [
+          "BELMAR,NJ",
+          "BELMAR, NJ"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BELMAR, NJ"
+      },
+      {
+        "from": [
+          "HAMBURG, GERMANY",
+          "HAMBURG,GERMANY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "HAMBURG, GERMANY"
+      },
+      {
+        "from": [
+          "BAKER CITY, OREGON",
+          "BAKER CITY,OREGON"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BAKER CITY, OREGON"
+      },
+      {
+        "from": [
+          "PARIS,FRANCE",
+          "PARIS, FRANCE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PARIS, FRANCE"
+      },
+      {
+        "from": [
+          "66TH ST BWAY NY",
+          "66TH ST B WAY, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NY"
+      },
+      {
+        "from": [
+          "NIAGARA FALLS, NY",
+          "NIAGARA FALLS,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NIAGARA FALLS, NY"
+      },
+      {
+        "from": [
+          "LAKEWOOD, NJ",
+          "LAKEWOOD, N J"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "LAKEWOOD, NJ"
+      },
+      {
+        "from": [
+          "HOTEL VICTORY, PUT IN BAY ISLAND, LAKE ERIE, OH",
+          "HOTEL VICTORY,PUT IN BAY ISLAND,LAKE ERIE,OH"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "LAKE ERIE, OH"
+      },
+      {
+        "from": [
+          "PARK ROW BUILDING NEW YORK,NY",
+          "PARK ROW BUILDING, NEW YORK, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "SS COPTIC",
+          "S S COPTIC"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SS COPTIC"
+      },
+      {
+        "from": [
+          "R M S ROTTERDAM",
+          "RMS ROTTERDAM"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "R M S ROTTERDAM"
+      },
+      {
+        "from": [
+          "NEW YORK CITY, NY",
+          "NEW YORK CITY,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "UNION SQUARE, NEW YORK, NY",
+          "UNION SQUARE,NEW YORK,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "66 ST B WAY NY",
+          "66 ST BWAY NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NY"
+      },
+      {
+        "from": [
+          "THE BOURSE, PHILADELPHIA PA",
+          "THE BOURSE, PHILADELPHIA,PA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PHILADELPHIA, PA"
+      },
+      {
+        "from": [
+          "PARKER HOUSE, BOSTON, MA",
+          "PARKER HOUSE,BOSTON,MA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BOSTON, MA"
+      },
+      {
+        "from": [
+          "RMS OCEANIC",
+          "R M S OCEANIC"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "RMS OCEANIC"
+      },
+      {
+        "from": [
+          "PALM BEACH, FL",
+          "PALM BEACH,FL"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PALM BEACH, FL"
+      },
+      {
+        "from": [
+          "KRUEGER AUDITORIUM, NEWARK, NJ",
+          "KRUEGER AUDITORIUM,NEWARK NJ"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEWARK, NJ"
+      },
+      {
+        "from": [
+          "SS WESTERNLAND",
+          "S S WESTERNLAND"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SS WESTERNLAND"
+      },
+      {
+        "from": [
+          "CLEVELAND, OH",
+          "CLEVELAND,OH"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CLEVELAND, OH"
+      },
+      {
+        "from": [
+          "EN ROUTE ABOARD S S WESTERNLAND",
+          "ENROUTE ABOARD S S WESTERNLAND"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "S S WESTERNLAND"
+      },
+      {
+        "from": [
+          "MUNICH, GERMANY",
+          "MUNICH,GERMANY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MUNICH, GERMANY"
+      },
+      {
+        "from": [
+          "BOSTON,MASS",
+          "BOSTON, MASS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BOSTON, MA"
+      },
+      {
+        "from": [
+          "REVERE HOUSE, BOSTON,MASS",
+          "REVERE HOUSE,BOSTON,MASS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BOSTON, MA"
+      },
+      {
+        "from": [
+          "THE NEW WILLARD, WASHINGTON, DC",
+          "THE NEW WILLARD, WASHINGTON, D C"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "WASHINGTON, DC"
+      },
+      {
+        "from": [
+          "MILWAUKEE, WI",
+          "MILWAUKEE,WI"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MILWAUKEE, WI"
+      },
+      {
+        "from": [
+          "NY",
+          "N Y"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NY"
+      },
+      {
+        "from": [
+          "WALDORF ASTORIA, NY",
+          "WALDORF ASTORIA,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "WALDORF ASTORIA, NY"
+      },
+      {
+        "from": [
+          "NASSAU,BAHAMAS",
+          "NASSAU, BAHAMAS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NASSAU, BAHAMAS"
+      },
+      {
+        "from": [
+          "HAVANA, CUBA",
+          "HAVANA,CUBA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "HAVANA, CUBA"
+      },
+      {
+        "from": [
+          "ELLICOTT SQUARE, BUFFALO, NY",
+          "ELLICOTT SQUARE,BUFFALO, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BUFFALO, NY"
+      },
+      {
+        "from": [
+          "EN ROUTE ABOARD EXPRESS STEAMER AUGUSTE VICTORIA",
+          "ENROUTE ABOARD EXPRESS STEAMER AUGUSTE VICTORIA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "EN ROUTE ABOARD EXPRESS STEAMER AUGUSTE VICTORIA"
+      },
+      {
+        "from": [
+          "ELLICOTT CLUB, BUFFALO, NY",
+          "ELLICOTT CLUB,BUFFALO,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BUFFALO, NY"
+      },
+      {
+        "from": [
+          "CHICAGO, IL",
+          "CHICAGO,IL"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CHICAGO, IL"
+      },
+      {
+        "from": [
+          "HOTEL MANHATTAN, NY",
+          "HOTEL MANHATTAN,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "New York, NY"
+      },
+      {
+        "from": [
+          "QUEEN CITY CLUB, CINCINNATI ,OHIO",
+          "QUEEN CITY CLUB, CINCINNATI,OHIO"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CINCINNATI ,OH"
+      },
+      {
+        "from": [
+          "ST DENIS HOTEL, NY",
+          "ST DENIS HOTEL,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ST DENIS HOTEL, NY"
+      },
+      {
+        "from": [
+          "HOTEL VENDOME, BOSTON, MA",
+          "HOTEL VENDOME,BOSTON MA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BOSTON, MA"
+      },
+      {
+        "from": [
+          "ASHEVILLE,NC",
+          "ASHEVILLE, NC"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ASHEVILLE, NC"
+      },
+      {
+        "from": [
+          "LOGAN HOUSE, ALTOONA, PA",
+          "LOGAN HOUSE,ALTOONA,PA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ALTOONA, PA"
+      },
+      {
+        "from": [
+          "MALONE, NY",
+          "MALONE,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MALONE, NY"
+      },
+      {
+        "from": [
+          "HOTEL VENDOME BOSTON, MASS",
+          "HOTEL VENDOME, BOSTON,MASS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BOSTON, MA"
+      },
+      {
+        "from": [
+          "FARGO, ND",
+          "FARGO,ND"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "FARGO, ND"
+      },
+      {
+        "from": [
+          "WATSON HOUSE, BABLON, L I , N Y",
+          "WATSON HOUSE,BABLON, L I N Y"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BABLON, LI , NY"
+      },
+      {
+        "from": [
+          "MOBILE AL",
+          "MOBILE,AL"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MOBILE, AL"
+      },
+      {
+        "from": [
+          "AMERICAN INN, PORTLAND OR",
+          "AMERICAN INN, PORTLAND,OR"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PORTLAND, OR"
+      },
+      {
+        "from": [
+          "LAKE GEORGE,NY",
+          "LAKE GEORGE, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "LAKE GEORGE, NY"
+      },
+      {
+        "from": [
+          "EN ROUTE",
+          "ENROUTE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "EN ROUTE"
+      },
+      {
+        "from": [
+          "WHITEHALL ROOMS, THE HOTEL METROPOLE, LONDON ENGLAND",
+          "WHITEHALL ROOMS,THE HOTEL METROPOLE, LONDON,ENGLAND"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "LONDON ENGLAND"
+      },
+      {
+        "from": [
+          "R M S EMPRESS OF CHINA",
+          "RMS EMPRESS OF CHINA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "R M S EMPRESS OF CHINA"
+      },
+      {
+        "from": [
+          "BRUNSWICK ME",
+          "BRUNSWICK,ME"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BRUNSWICK, ME"
+      },
+      {
+        "from": [
+          "COLORADO SPRINGS, CO",
+          "COLORADO SPRINGS,COLO"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "COLORADO SPRINGS, CO"
+      },
+      {
+        "from": [
+          "FANEUIL HALL, BOSTON, MA",
+          "FANEUIL HALL,BOSTON,MA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BOSTON, MA"
+      },
+      {
+        "from": [
+          "DETROIT, MI",
+          "DETROIT,MI"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DETROIT, MI"
+      }
+    ],
+    "description": "Mass edit cells in column place_cleaned"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_cleaned",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NEW YORK, NY",
+          "New York, NY",
+          "NEW YORK,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "CHICAGO, IL",
+          "CHICAGO,IL",
+          " CHICAGO, IL"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CHICAGO, IL"
+      },
+      {
+        "from": [
+          "LONDON, ENGLAND",
+          "LONDON ENGLAND"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "LONDON, ENGLAND"
+      },
+      {
+        "from": [
+          "CHATTANOOGA,TN",
+          "CHATTANOOGA, TN"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CHATTANOOGA,TN"
+      },
+      {
+        "from": [
+          "WASHINGTON, DC",
+          "WASHINGTON DC"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "WASHINGTON, DC"
+      },
+      {
+        "from": [
+          "NEWARK, NJ",
+          "NEWARK,NJ"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEWARK, NJ"
+      },
+      {
+        "from": [
+          "CINCINNATI, OH",
+          "CINCINNATI ,OH"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CINCINNATI, OH"
+      },
+      {
+        "from": [
+          "NYACK ON HUDSON, NY",
+          "NYACK ON HUDSON,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NYACK ON HUDSON, NY"
+      },
+      {
+        "from": [
+          "SS WESTERNLAND",
+          "S S WESTERNLAND"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SS WESTERNLAND"
+      },
+      {
+        "from": [
+          "NEWPORT, RI",
+          "NEWPORT RI"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEWPORT, RI"
+      }
+    ],
+    "description": "Mass edit cells in column place_cleaned"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_cleaned",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "BROADWAY, NY",
+          "1484 BROADWA,NY",
+          "13 BROADWAY, NY",
+          "178 BROADWAY, NY",
+          "663 BROADWAY,NY",
+          "726 BROADWAY, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BROADWAY, NY"
+      },
+      {
+        "from": [
+          "108 110 WEST 38TH STREET, NEW YORK, NY",
+          "323 WEST 57TH STREET, NEW YORK, N Y",
+          "373 375 WEST STREET, NEW YORK, NY",
+          "59 61 WEST 24TH STREET, NEW YORK NY",
+          "WEST 125TH STREET,NEW YORK,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " NEW YORK, NY"
+      },
+      {
+        "from": [
+          "203 5 SIXTH AVE NY",
+          "213 SIXTH AVE NY",
+          "362 SIXTH AVE NY",
+          "527 SIXTH AVE NY",
+          "600 SIXTH AVE NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " NEW YORK, NY"
+      },
+      {
+        "from": [
+          "CINCINNATI, OH",
+          "CINCINNATI,OHIO",
+          "CINCINATI, OHIO",
+          "CINCINNATI, 0H"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CINCINNATI, OH"
+      },
+      {
+        "from": [
+          "KONIGEN LUISE AT SEA",
+          "KONIGEN LOUISE AT SEA",
+          "KONIGIN LUISE AT SEA",
+          "KONIGIN LUSE AT SEA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "KONIGEN LUISE AT SEA"
+      },
+      {
+        "from": [
+          "THE BELLEVUE, PHILADELPHIA, PA",
+          "THE BELLEVUE, PHILDELPHIA PA",
+          "THE BELLEVUE, PHLADELPHIA PA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PHILADELPHIA, PA"
+      },
+      {
+        "from": [
+          "CLEVELAND, OH",
+          "CLEVELAND, OHIO",
+          "CLEVELYAND OH"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CLEVELAND, OH"
+      },
+      {
+        "from": [
+          "156 SECOND AVENUE, NY",
+          "45 SECOND AVENUE NY",
+          "83 SECOND AVENUE, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " NEW YORK, NY"
+      },
+      {
+        "from": [
+          "25 BARCLAY ST , NEW YORK, NY",
+          "96 98 BARCLAY ST , NEW YORK, NY",
+          "98 BARCLAY ST , NEW YORK, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "259 BOWERY, NEW YORK",
+          "161 BOWERY, NEW YORK",
+          "300 BOWERY, NEW YORK"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "116 WEST 14 ST NY",
+          "1 WEST 57 ST NY",
+          "32 WEST 28 ST NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "1515 BROADWAY, NEW YORK, NY",
+          "21 BROADWAY,NEW YORK,NY",
+          "779 BROADWAY, NEW YORK, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "SS SONOMA",
+          "SONOMA",
+          "S S SAN JUAN"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SS SONOMA"
+      },
+      {
+        "from": [
+          "408 EAST 34 STREET,NEW YORK,NY",
+          "48 EAST 14TH STREET, NEW YORK,NY",
+          "61 63 EAST 59 STREET,NEW YORK,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "SUMMERVILLE, S C",
+          "SOMMERVILLE, S C",
+          "SUMERVILLE,S C"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SUMMERVILLE, SC"
+      },
+      {
+        "from": [
+          "CHICAGO, IL",
+          "CHICAGO,ILL",
+          "CHCAGO, IL"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CHICAGO, IL"
+      },
+      {
+        "from": [
+          "DINER CAR 372, SAN FRANCISCO OVERLAND LIMITED",
+          "DINER CAR 374, SAN FRANCISCO OVERLAND LIMITED",
+          "DINER CAR 385, SAN FRANCISCO OVERLAND LIMITED"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SAN FRANCISCO, CA"
+      },
+      {
+        "from": [
+          "BROADWAY 52ND ST , NEW YORK, NY",
+          "BROADWAY AND 36TH ST,NEW YORK,NY",
+          "BROADWAY AND 44TH ST,NEW YORK,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "16 18 PARK PLACE, NEW YORK",
+          "6 PARK PLACE, NEW YORK"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "AUGUSTA, ME",
+          "AUGUST, ME"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "AUGUSTA, ME"
+      },
+      {
+        "from": [
+          "ROME, ITALY",
+          "ROME, ITALLY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ROME, ITALY"
+      },
+      {
+        "from": [
+          "SONOMA SECOND CABIN",
+          "SS SONOMA,SECOND CABIN"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SONOMA SECOND CABIN"
+      },
+      {
+        "from": [
+          "149 BLEECKER ST NY",
+          "BLEECKER ST NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NY"
+      },
+      {
+        "from": [
+          "MADISON SQUARE GARDEN",
+          "MADISON SQUARE GARDEN NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "S S ZEELAND",
+          "S S ZEALANDIA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "S S ZEELAND"
+      },
+      {
+        "from": [
+          "DAMPFER KONIGEN LUISE",
+          "DAMPFER KONIGIN LUISE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DAMPFER KONIGEN LUISE"
+      },
+      {
+        "from": [
+          "SHAUL S INN",
+          "SS LOUISIANA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SHAUL S INN"
+      },
+      {
+        "from": [
+          "JERSEY CITY, NJ",
+          "JERSEY CITY, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "JERSEY CITY, NJ"
+      },
+      {
+        "from": [
+          "CHARLEY BROWN S",
+          "CHARLIE BROWN S"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CHARLEY BROWN S"
+      },
+      {
+        "from": [
+          "MIAMI BISCAYNE BAY, FL",
+          "MIAAMI BISCAYNE BAY,FLA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MIAMI BISCAYNE BAY, FL"
+      },
+      {
+        "from": [
+          "TAMPA, FL",
+          "TAMPA,FLA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "TAMPA, FL"
+      },
+      {
+        "from": [
+          "22 WEST 20TH ST NYC",
+          "WEST 46 ST NYC"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "EN ROUTE",
+          "ON ROUTE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "EN ROUTE"
+      },
+      {
+        "from": [
+          "PINEHURST, NC",
+          "PINEHURSSST, N C"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PINEHURST, NC"
+      },
+      {
+        "from": [
+          "127 FOURTH AVE NY",
+          "141 FOURTH AVE NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "ON BOARD THE SS BARBAROSSA",
+          "ON BOARD S S BARBAROSSA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ON BOARD THE SS BARBAROSSA"
+      },
+      {
+        "from": [
+          "ON BOARD THE SS GEORGE WASHINGTON",
+          "ON BOARD S S GEORGE WASHINGTON"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ON BOARD THE SS GEORGE WASHINGTON"
+      },
+      {
+        "from": [
+          "JAHRESZEITEN ECK",
+          "JARESZEITEN ECK"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "JAHRESZEITEN ECK"
+      },
+      {
+        "from": [
+          "LUCERNE,SWITZERLAND",
+          "LUZERN, SWITZERLAND"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "LUCERNE, SWITZERLAND"
+      },
+      {
+        "from": [
+          "THE WALDORF ASTORIA",
+          "THE WALDORF ASTORA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "THE WALDORF ASTORIA"
+      },
+      {
+        "from": [
+          "DELMONICOS, NY",
+          "DELMOMICO S,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DELMONICOS, NY"
+      },
+      {
+        "from": [
+          "GRAND PACIFIC HOTEL, CHICAGO, IL",
+          "GRAND PACIFIC HOTEL,CHICAGO,ILL"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CHICAGO, IL"
+      },
+      {
+        "from": [
+          "EN ROUTE ABOARD R M S ETRURIA",
+          "EN ROUTE ABOARD THE R M S ETRURIA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "EN ROUTE ABOARD R M S ETRURIA"
+      },
+      {
+        "from": [
+          "TEUOTINIA ASSEMBLY ROOMS, NEW YORK, NY",
+          "TEUTONIA ASSEMBLY ROOMS, NEW YORK, N Y"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "B WAY 32 ST NY",
+          "B WAY 44ST ,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "374 FIFTH AVENUE, NEW YORK, NY",
+          "684 FIFTH AVENUE, NEW YORK, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "THE AUDITORIUM, CHICAGO, IL",
+          "THE AUDITORIAUM, CHICAGO IL"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CHICAGO, IL"
+      },
+      {
+        "from": [
+          "119 121 LA SALLE ST ,CHICAGO,IL",
+          "LA SALLE ST CHICAGO, ILL"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CHICAGO, IL"
+      },
+      {
+        "from": [
+          "S S SOUTHWARK",
+          "S S SOUTHWORK"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "S S SOUTHWARK"
+      },
+      {
+        "from": [
+          "SCHWEISERHOF,LUCERNE,SWITZERLAND",
+          "SCHWITZERHOF LUZERN SWITZERLAND"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "LUCERNE, SWITZERLAND"
+      },
+      {
+        "from": [
+          "BLEECKER STREET, NEW YORK",
+          "149 BLEECKER STREET, NEW YORK"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "GELB S PARLORS, PROVIDENCE, RI",
+          "GELB S PARLORS, PROVIDENCE, RO"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PROVIDENCE, RI"
+      },
+      {
+        "from": [
+          "SCHNELLDAMPFER AUGUSTE VICTORIA",
+          "SHNELLDAMPFER AUGUSTE VICTORIA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SCHNELLDAMPFER AUGUSTE VICTORIA"
+      },
+      {
+        "from": [
+          "66TH STREET AND BROADWAY,NEW YORK,NY",
+          "59TH STREET AND BROADWAY, NEW YORK NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK,NY"
+      },
+      {
+        "from": [
+          "PALM BEACH, FL",
+          "PALM BEACH,FLA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PALM BEACH, FL"
+      },
+      {
+        "from": [
+          "160 SIXTH AVE,NEW YORK,NY",
+          "456 SIXTH AVE, NEW YORK,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK,NY"
+      },
+      {
+        "from": [
+          "FRANKFURT, GERMANY",
+          "FRANKFORT, GERMANY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "FRANKFURT, GERMANY"
+      },
+      {
+        "from": [
+          "ST AUGUSTINE, FL",
+          "ST AAUGUSTINE,FLA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ST AUGUSTINE, FL"
+      },
+      {
+        "from": [
+          "MALONE, NJ",
+          "MALONE, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MALONE, NJ"
+      },
+      {
+        "from": [
+          "ST NICHOLAS HOTEL, CINCINNATI, OH",
+          "ST NICHOLAS HOTEL, CINCINNATI,OHIO"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CINCINNATI, OH"
+      },
+      {
+        "from": [
+          "259 261 BOWERY, NEW YORK CITY",
+          "358 BOWERY, NEW YORK CITY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "SS KAMAKURA MARU",
+          "SS KAMKURA MARU"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SS KAMAKURA MARU"
+      },
+      {
+        "from": [
+          "203 205 SIXTH AVENUE,NEW YORK,NY",
+          "738 SIXTH AVENUE,NEW YORK,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "BROADWAY AND 52ND STREET, NEW YORK",
+          "BROADWAY AND TENTH STREET, NEW YORK"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "THE RICHELIEU, CHICAGO, IL",
+          "THE RICHELIEU,CHICAGO,ILL"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CHICAGO, IL"
+      },
+      {
+        "from": [
+          "EN ROUTE SS KAIRGA",
+          "ENROUTE SS HGAIRGA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "EN ROUTE SS KAIRGA"
+      },
+      {
+        "from": [
+          "PUT IN BAY ISLAND, OH",
+          "PUT IN BAY ISLAND, OHIO"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PUT IN BAY ISLAND, OH"
+      },
+      {
+        "from": [
+          "BROOKLYN, NY",
+          "PARK LANE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BROOKLYN, NY"
+      },
+      {
+        "from": [
+          "AKBAR",
+          "OAK BAR"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "OAKBAR"
+      },
+      {
+        "from": [
+          "37 JOHN STREET, NY",
+          "AMSTERDAM, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "BOHEMIAN CLUB, SAN FRANCISCO, CA",
+          "BOHEMIAN CLUB,SAN FRANSISCO,CA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SAN FRANCISCO, CA"
+      },
+      {
+        "from": [
+          "EN ROUTE ABOARD SS KOBE MARU",
+          "EN ROUTE ABOARD SS K0BE MARU"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "EN ROUTE ABOARD SS KOBE MARU"
+      },
+      {
+        "from": [
+          "ASHEVILLE, NC",
+          "ASHVILLE, NC"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ASHEVILLE, NC"
+      },
+      {
+        "from": [
+          "ON BOARD S S KRONPRINZESSIN CECILE",
+          "ON BOARD S S KRONPRINZESSIN CECILIE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ON BOARD S S KRONPRINZESSIN CECILE"
+      },
+      {
+        "from": [
+          "602 SIXTH AVENUE, NEW YORK",
+          "SIXTH AVENUE, NEW YORK"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "ST DENIS HOTEL",
+          "ST DENNIS HOTEL"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ST DENIS HOTEL"
+      },
+      {
+        "from": [
+          "SS CITY OF RIO DE JANEIRO",
+          "SS CITY OF RIO DE JANERIO"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SS CITY OF RIO DE JANEIRO"
+      },
+      {
+        "from": [
+          "5TH AVE 15 ST NY",
+          "6TH AVE ,I8 19 ST ,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "ON BOARD THE SS BERLIN",
+          "ON BOARD S S BERLIN"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ON BOARD THE SS BERLIN"
+      },
+      {
+        "from": [
+          "GIBRALTAR, SPAIN",
+          "GIBRALTER, SPAIN"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "GIBRALTAR, SPAIN"
+      },
+      {
+        "from": [
+          "SWITZERLAND",
+          "SWIITZERLAND"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SWITZERLAND"
+      },
+      {
+        "from": [
+          "38TH ST 6TH AVE NY",
+          "59TH ST 5TH AVE NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "JACKSONVILLE, FL",
+          "JACKSONVILLE, FLA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "JACKSONVILLE, FL"
+      },
+      {
+        "from": [
+          "EN ROUTE ABOARD SCHNELLDAMPFER EXPRESS STEAMER AUGUSTE VICTORIA",
+          "EN ROUTE ABOARD SCNELLDAMPFER EXPRESS STEAMER AUGUSTE VICTORIA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "EN ROUTE ABOARD SCHNELLDAMPFER EXPRESS STEAMER AUGUSTE VICTORIA"
+      },
+      {
+        "from": [
+          "119 FIFTH AVE, NY",
+          "642 FIFTH AVE, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "PLAZA HOTEL, NY",
+          "PALACE HOTEL,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "ABOARD KRONPRINZESSIN CECILIE",
+          "ABOARD KRONPRINSESSIN CECILIE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ABOARD KRONPRINZESSIN CECILIE"
+      },
+      {
+        "from": [
+          "ABOARD PAQUEBOT LA LORRAINE",
+          "ABOARD PAQUEBOT LA LORAINE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ABOARD PAQUEBOT LA LORRAINE"
+      },
+      {
+        "from": [
+          "CORONADO BEACH, CA",
+          "CORONADA BEACH, CA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CORONADO BEACH, CA"
+      },
+      {
+        "from": [
+          "13 MONTGOMERY STREET JERSEY CITY, NJ",
+          "90 MONTGOMERY STREET, JERSEY CITY, NJ"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "JERSEY CITY, NJ"
+      },
+      {
+        "from": [
+          "1289 1291 B WAY NY",
+          "1289 B WAY NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "SS KONIGIN LUISE",
+          "SS KONIGEN LUISE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SS KONIGIN LUISE"
+      },
+      {
+        "from": [
+          "SS FURST BISMARCK",
+          "SS FURST BISMARK"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SS FURST BISMARCK"
+      },
+      {
+        "from": [
+          "NASHVILLE, TN",
+          "NASHVILLE, TENN"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NASHVILLE, TN"
+      },
+      {
+        "from": [
+          "MILAN, ITALY",
+          "MILANO, ITALY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MILAN, ITALY"
+      },
+      {
+        "from": [
+          "EN ROUTE STEAMER AUGUST VICTORIA",
+          "EN ROUTE STEAMER AUGUSTE VICTORIA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "EN ROUTE STEAMER AUGUST VICTORIA"
+      },
+      {
+        "from": [
+          "EN ROUTE ABOARD S S ZEALANDIA",
+          "EN ROUTE ABOARD S S ZEELAND"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "EN ROUTE ABOARD S S ZEALANDIA"
+      },
+      {
+        "from": [
+          "EN ROUTE ABOARD SIERRA",
+          "EN ROUTE ABOARD SS SIERRA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "EN ROUTE ABOARD SIERRA"
+      }
+    ],
+    "description": "Mass edit cells in column place_cleaned"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_cleaned",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NEW YORK, NY",
+          " NEW YORK, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      }
+    ],
+    "description": "Mass edit cells in column place_cleaned"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_cleaned",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NEW YORK, NY",
+          "NEW YORK,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      }
+    ],
+    "description": "Mass edit cells in column place_cleaned"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_cleaned",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "WALDORF ASTORIA, NEW YORK",
+          "WALDORF ASTORIA",
+          "WALDORF ASTORIA, NY",
+          "WALDORF ASTORIA HOTEL, NEW YORK, NY",
+          "WALDORF ASTORIA, NEW YORK CITY",
+          "WALDORF ASTORIA HOTEL",
+          "WALDORF ASTORIA HOTEL, THE, NEW YORK, NY",
+          "WALDORF ASTORIA, THE, NY,NY",
+          "WALDROF ASTOIA, NEW YORK"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "METROPOLITAN OPERA HOUSE",
+          "METROPOLITAN HOTEL, NEW YORK, NY",
+          "METROPOLITAN CLUB, NEW YORK, NY",
+          "METROPOLITAN HOTEL",
+          "METROPOLITAN CLUB",
+          "METROPOLITAN CLUB NY",
+          "METROPOLITAN OPERA HOUSE ASSEMBLY ROOM NY",
+          "METROPOLITAN OPERA HOUSE,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "ST DENIS HOTEL",
+          "ST DENIS HOTEL, NY",
+          "ST DENIS HOTEL, NEW YORK, NY",
+          "ST DENIS HOTEL, BROADWAY AND ELEVENTH STREET, NEW YORK",
+          "ST DENIS HOTEL, BWAY 11 ST NY",
+          "ST DENIS HOTEL, FLUSHING, NY",
+          "ST DENIS HOTEL, NEW YORK CITY",
+          "ST DENIS HOTEL,B WAY 10TH ST NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "HOTEL MANHATTAN, NEW YORK",
+          "HOTEL MANHATTAN",
+          "HOTEL MANHATTAN MADISON AVE AND 42ND ST , NY",
+          "HOTEL MANHATTAN, MADISON AVE 42ND ST , NEW YORK, NY",
+          "HOTEL MANHATTAN, MADISON AVENUE AND 42ND ST NYC, NY",
+          "HOTEL MANHATTAN,NEW YORK NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "MURRAY HILL HOTEL",
+          "MURRAY HILL HOTEL NYC",
+          "MURRAY HILL HOTEL, NEW YORK CITY",
+          "MURRAY HILL HOTEL, NEW YORK, NY",
+          "MURRAY HILL HOTEL, THE, NEW YORK, NY",
+          "MURRAY HILL HOTEL,THE, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "DELMONICOS, NY",
+          "DELMONICOS",
+          "DELMONICOS, NEW YORK",
+          "DELMONICO S NEW YOK CITY",
+          "DELMONICO S NYC",
+          "DELMONICO S, FIFTH AVENUE AND FORTY FORTH STREET, NEW YORK"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "BLEECKER, THOMPSON AND SULLIVAN STREETS, ENTRANCE ON BLEECKER STREET, NEW YORK, NY",
+          "BLEECKER, THOMPSON AND SULLIVAN STREETS",
+          "BLEECKER, THOMPSON AND SULLIVAN STREETS ENTRANCE ON BLEECKER STREET",
+          "BLEECKER, THOMPSON AND SULLIVAN STREETS, NEW YORK",
+          "BLEECKER,THOMPSON SULLIVAN STREETS,NY",
+          "BLEECKER,THOMPSON,AND SULLIVAN STREETS, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "SAN FRANCISCO, CA",
+          "SAN FRANCISCO OVERLAND LIMITED",
+          "SAN FRANCISCO",
+          "SAN FRANCISCO COMMERCIAL CLUB",
+          "SAN FRANCISCO COMMERICAL CLUB",
+          "SAN FRANCISCO, CALIF"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SAN FRANCISCO, CA"
+      },
+      {
+        "from": [
+          "BELLEVUE STRATFORD HOTEL, PHILADELPHIA, PA",
+          "BELLEVUE STRATFORD, PHILADELPHIA, PA",
+          "BELFAST, IRELAND",
+          "BELLEVUE STRAFORD, PHILADELPHIA PA",
+          "BELLEVUE STRATFORD HOTEL",
+          "BELLEVUE STRATFORD, PA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PHILADELPHIA, PA"
+      },
+      {
+        "from": [
+          "AUDITORIUM HOTEL, CHICAGO, IL",
+          "AUDITORIUM HOTEL",
+          "AUDITORIUM HOEL",
+          "AUDITORIUM HOEL, CHICAO, IL",
+          "AUDITORIUM HOTEL ANNEX, , IL",
+          "AUDITORIUM, HAMILTON CLUB, CHICAGO, IL"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CHICAGO, IL"
+      },
+      {
+        "from": [
+          "HOFFMAN HOUSE",
+          "HOFFMAN HOUSE CAFE , 7 BEAVER ST NY",
+          "HOFFMAN HOUSE CAFE, NEW YORK, NY",
+          "HOFFMAN HOUSE CAFE,STEAMBOAT GRAND REPUBLIC, NEW YORK",
+          "HOFFMAN HOUSE MOORISH ROOM, NEW YORK",
+          "HOFFMAN HOUSE, THE, NEW YORK, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "HOTEL MARLBOROUGH, NEW YORK, NY",
+          "HOTEL MARLBOROUGH HOBOKEN NY",
+          "HOTEL MARLBOROUGH, NEW YORK",
+          "HOTEL MARLBOROUGH, NEW YORK CITY",
+          "HOTEL MARLBOROUGH,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "25 PARK ROW, NEW YORK, NY",
+          "25 PARK ROW, NY",
+          "33 PARK ROW, NEW YORK CITY",
+          "PARK ROW, NY",
+          "PARK ROW, NYC"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "NEW YORK ATHLETIC CLUB",
+          "NAVARRE HOTEL, NEW YORK, NY",
+          "NEW YORK ATHLETIC CLUB, NEW YORK, NY",
+          "NEW YORK HOTEL AND RESTAURANT CO LTD , CORTLANDT ST NY",
+          "NEW YORK HOTEL,N Y"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "LITTLE HUNGARY 257 EAST HOUSTON STREET, NEW YORK, NY",
+          "LITTLE HUNGARY NYC",
+          "LITTLE HUNGARY,",
+          "LITTLE HUNGARY, NEW YORK, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "MARTINELLI S",
+          "MARTINELLI S, NEW YORK CITY",
+          "MARTINELLI S, NEW YORK, NY",
+          "MARTINELLI S,136 FIFTH AVE NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "HOTEL RYAN, SAINT PAUL, MN",
+          "HOTEL RYAN, SO PAUL, MINN",
+          "HOTEL RYAN, ST PAUL, MN",
+          "HOTEL RYAN, ST PAUL,MINN"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ST PAUL, MN"
+      },
+      {
+        "from": [
+          "YOUNG S HOTEL",
+          "YOUNG S HOTEL, BOSTON,MASS",
+          "YOUNG S HOTEL, MASS",
+          "YOUNG S HOTEL,BOSTON"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BOSTON, MA"
+      },
+      {
+        "from": [
+          "NEW YORK FRIARS CLUB",
+          "NEW YORK PRESS CLUB MORTON BUILDING NY",
+          "NEW YORK PRESS CLUB NYC",
+          "NEW YORK PRESS CLUB, 34 WEST 23RD ST NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "HOTEL SOMERSET, BOSTON, MA",
+          "HOTEL SOMERSET",
+          "HOTEL ZINZENDORF, WINSTON SALEM, NC",
+          "HOTEL SOMERSET, COMMONWEALTH AVENUE, BOSTON, MA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BOSTON, MA"
+      },
+      {
+        "from": [
+          "GRAND CENTRAL LUNCH ROOMS, NEW YORK,NY",
+          "GRAND CENTRAL PALACE",
+          "GRAND CENTRAL PALACE, NEW YORK NY",
+          "GRAND CENTRAL PALACE, NYC"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "PARKER HOUSE, MASS",
+          "PARKER HOUSE",
+          "PARKER HOUSE,BOSTON,MASS",
+          "PARKER HOUSE,WORCESTER"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BOSTON, MA"
+      },
+      {
+        "from": [
+          "190 FULTON ST NY",
+          "393 FULTON STREET,NY",
+          "90 FULTON ST , NEW YORK, NY",
+          "90 FULTON STREET, NEW YORK"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "CLARK S, NEW YORK, NY",
+          "CLARK S NY",
+          "CLARK S NYC"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "66TH STREET AND BROADWAY NY",
+          "75TH STREET AND COLUMBUS AVE,NEW YORK,NY",
+          "66TH STREET AND BR6ADWAY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "139 EIGHTH STREET BET BROADWAY AND 4TH AVE , NEW YORK, NY",
+          "139 EIGHTH STREET, NEW YORK",
+          "139 EIGHTH STREET, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "15 AND 17 WEST HOUSTON STREET",
+          "384 AND 385 WEST STREET NEWYORK, NY",
+          "70 AND 72 WEST 46TH STREET, NEW YORK CITY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "6 PARK PLACE",
+          "6 PARK PLACE, NYC",
+          "PARK PLACE TAPESTRY ROOM 299 PARK AVENUE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "BIRMINGHAM",
+          "BIRMINGHAM, AL",
+          "BIRMINGHAM,ALABAMA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BIRMINGHAM, AL"
+      },
+      {
+        "from": [
+          "COLONIAL CLUB",
+          "COLONIAL CLUB NY",
+          "COLONIAL CLUB OF NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "TRANSPORT",
+          "TRANSPORTATION CLUB NY",
+          "TRANSPORTATION CLUB, NEW YORK, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "THE ARLINGTON,WASH DC",
+          "THE ARLINGTON",
+          "THE ARLINGTON WASHINGTON"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "WASHINGTON, DC"
+      },
+      {
+        "from": [
+          "ARKWRIGHT CLUB 320 BROADWAY, NEW YORK",
+          "ARKWRIGHT CLUB, NEW YORK CITY",
+          "ARKWRIGHT CLUB, NEW YORK, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "HOTEL RENNERT",
+          "HOTEL RENNERT, BALTIMORE, MD",
+          "HOTEL RENNERT, MD"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BALTIMORE, MD"
+      },
+      {
+        "from": [
+          "REPUBLICAN CLUB, NEW YORK",
+          "REPUBLICAN CLUB, NEW YORK CITY",
+          "REPUBLICAN CLUB, NEW YORK, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "DEMOCRATIC CLUB",
+          "DEMOCRATIC CLUB, NEW YORK, NY",
+          "DEMOCRATIC CLUB,NEW YORK"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "REISENWEBER S",
+          "REISENWEBER S CIRCLE HOTEL EIGHTH AVENUE AND 58TH STREET, NEW YORK",
+          "REISENWEBER S, NEW YORK, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "LINCOLN CLUB NY",
+          "LINCOLN CLUB NEW YORK",
+          "LINCOLN CLUB, THE, BROOKLYN, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BROOKLYN, NY"
+      },
+      {
+        "from": [
+          "HOTEL GRAMERCY PARK 52 GRAMERCY PARK NORTH",
+          "HOTEL GRAMERCY PARK 52 GAMERCY PARK NORTH",
+          "HOTEL GRAMERCY PARK 52 GRAMERCY PARK NORTH, LEXINGTON AVENUE AT 21ST STREET"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "HOTEL GRAMERCY PARK 52 GRAMERCY PARK NORTH"
+      },
+      {
+        "from": [
+          "PHILADELPHIA, PA",
+          "PHILADELPHIA BOURSE",
+          "PHILADELPHIA BOURSE, PHILADELPHIA,PA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PHILADELPHIA, PA"
+      },
+      {
+        "from": [
+          "16 EAST 16TH STREET, NEW YORK",
+          "42 EAST 14TH STREET, 440 BWAY, NEW YORK",
+          "48 EAST 14TH STREET, UNION SQUARE, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "PLANKINTON HOUSE",
+          "PLANKINTON HOUSE, MILWAUKEE COUNTY, WI",
+          "PLANKINTON HOUSE, MILWAUKEE, WI"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MILWAUKEE, WI"
+      },
+      {
+        "from": [
+          "PUT IN BAY ISLAND, LAKE ERIE, OH",
+          "PUT IN BAY ISLAND, OH",
+          "PUT IN BAY ISAND, LAKE ERIE, OH"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PUT IN BAY ISLAND, OH"
+      },
+      {
+        "from": [
+          "HOTEL ASTOR",
+          "HOTEL ASTOR, NEW YORK",
+          "HOTEL ASTOR, NEW YORK CITY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      }
+    ],
+    "description": "Mass edit cells in column place_cleaned"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_cleaned",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "MASONIC HALL NY",
+          "MASONIC HALL, NEW YORK, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "QUEEN S HOTEL",
+          "QUEEN S HOTEL, EASTBOURNE, ENGLAND"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "EASTBOURNE, ENGLAND"
+      },
+      {
+        "from": [
+          "DELMONICO, NY",
+          "DELMONIC0 S, NEW YORK"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "156 SECOND AVE, NY",
+          "156 SECOND AVENUE, NEW YORK,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "PARK AVENUE HOTEL, NEW YORK, NY",
+          "PARK AVENUE HOTEL,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "WORCESTER, MA",
+          "WORCESTER, MASS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "WORCESTER, MA"
+      },
+      {
+        "from": [
+          "114 WEST FOURTEENTH STREET, NEW YORK",
+          "114 WEST FOURTEENTH STREET, NEW YORK, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "NEW HAVEN CT",
+          "NEW HAVEN, CONN"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW HAVEN, CT"
+      },
+      {
+        "from": [
+          "ST REGIS HOTEL",
+          "ST REGIS HOTEL, NEW YORK, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "RIVERSIDE DRIVE, NEW YORK CITY, NY",
+          "RIVERSIDE DRIVE, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "HOTEL IROGUOIS, BUFFALO,NY",
+          "HOTEL IROQUOIS, VALLEY OF BUFFALO NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BUFFALO, NY"
+      },
+      {
+        "from": [
+          "HAVANA, CUBA",
+          "HABANA, CUBA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "HAVANA, CUBA"
+      },
+      {
+        "from": [
+          "4TH AVE 18TH ST, NEW YORK NY",
+          "5TH AVE 15TH ST NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "BROWN PALACE HOTEL,DENVER, CO",
+          "BROWN PALACE, THE, DENVER, CO"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DENVER, CO"
+      },
+      {
+        "from": [
+          "HILLMAN HOTEL",
+          "HILLMAN HOTEL, BIRMINGHAM, AL"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BIRMINGHAM, AL"
+      },
+      {
+        "from": [
+          "TONTINE HOTEL, NEW HAVEN, CT",
+          "TONTINE HOTEL"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW HAVEN, CT"
+      }
+    ],
+    "description": "Mass edit cells in column place_cleaned"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_cleaned",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "CHICAGO ATHLETIC ASSOCIATION",
+          "CHICAGO ATHLETIC ASSOCIATION, CHICAGO, IL"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CHICAGO, IL"
+      },
+      {
+        "from": [
+          "SHOREHAM, THE, WASHINGINTON, D C",
+          "SHOREHAM, THE, WASHINGTO, DC"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "WASHINGINTON, DC"
+      },
+      {
+        "from": [
+          "VENDOME HOTEL,NY",
+          "VENDOME HOTEL,NYC"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "LOTOS CLUB, NEW YORK CITY",
+          "LOTOS CLUB, NEW YORK, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      }
+    ],
+    "description": "Mass edit cells in column place_cleaned"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_cleaned",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ABOARD U S M S ST LOUIS",
+          "EVERETT HOUSE, UNION SQUARE AND 17TH STREET, NEW YORK"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "HOTEL WORTHY",
+          "HOTEL BARTHOLDI, NEW YORK, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "SIXTY SIXTH STREET BROADWAY, NEW YORK, NY",
+          "SIXTY SIXTH STREET BROADWAY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "SS WESTERNLAND",
+          "SS WESTERNLAND, EN ROUTE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SS WESTERNLAND"
+      },
+      {
+        "from": [
+          "CLINTON COUNTY, NY",
+          "CLINTON CO , NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CLINTON COUNTY, NY"
+      },
+      {
+        "from": [
+          "CAFE BOULEVARD NEW YORK",
+          "CAFE BOULEVARD, NEW YORK,NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "COPENHAGEN, DENMARK",
+          "COPENHAGEN"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "COPENHAGEN, DENMARK"
+      },
+      {
+        "from": [
+          "HOTEL LAFAYETTE",
+          "HOTEL LAFAYETTE, PHILADELPHIA PA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PHILADELPHIA, PA"
+      },
+      {
+        "from": [
+          "RAUSCHER S, WASHINGON, D C",
+          "RAUSCHER S, WASHINGTON, DC"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "WASHINGON, DC"
+      },
+      {
+        "from": [
+          "ST AUGUSTINE, FL",
+          "ST AUGUSTINE,FLORIDA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ST AUGUSTINE, FL"
+      },
+      {
+        "from": [
+          "CHRISTIANA, NORWAY",
+          "CHRISTIANIA, NORWAY OSLO"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CHRISTIANA, NORWAY"
+      },
+      {
+        "from": [
+          "57 BROAD STREET, NY",
+          "15 BROAD STREET, 1 BROADWAY, NEW YORK"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "16 LAFAYETTE PLACE",
+          "16 LAFAYETTE PLACE NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "CAFE MARTIN",
+          "CAFE MARTIN NEW YORK"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "GLEN ISLAND, NY",
+          "HOLLANDS, LONG ISLAND, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "LONG ISLAND, NY"
+      },
+      {
+        "from": [
+          "NEW ORLEANS, LA",
+          "NEW PRLEANS,LA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW ORLEANS, LA"
+      },
+      {
+        "from": [
+          "CAPITAL HOTEL",
+          "CAPITAL HOTEL, FRANKFORT, KY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "FRANKFORT, KY"
+      },
+      {
+        "from": [
+          "HOFFMAN CAFE, NEW YORK",
+          "HOFFMAN CAFES, NEW YORK, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEW YORK, NY"
+      },
+      {
+        "from": [
+          "HOTEL DEL CORONADO",
+          "HOTEL DEL CORONADO, SAN DIEGO COUNTY, CA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SAN DIEGO, CA"
+      },
+      {
+        "from": [
+          "GARCIA S PLACE, THE GRAND ORIENT, YBOR CITY, FL",
+          "GARCIA S PLACE,YSOR CITY,FLORIDA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "YBOR CITY, FL"
+      }
+    ],
+    "description": "Mass edit cells in column place_cleaned"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "location_cleaned",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "U.S.S. Raleigh",
+          "U.S.S.Raleigh",
+          "U.S.S.S.Raleigh"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "U.S.S. Raleigh"
+      },
+      {
+        "from": [
+          "Hofbrau Haus",
+          "Hofbrauhaus",
+          "Hof Brau Haus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hofbrau Haus"
+      },
+      {
+        "from": [
+          "Nippon Yusen Kaisha S.S.Kobe Maru",
+          "Nippon Yusen Kaisha S.S. Kobe Maru",
+          "Nipppon Yusen Kaisha S.S. Kobe Maru"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Nippon Yusen Kaisha S.S.Kobe Maru"
+      },
+      {
+        "from": [
+          "Societa La Piemontese",
+          "Societa'la Piemontese"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Societa La Piemontese"
+      },
+      {
+        "from": [
+          "Hotel DuPont",
+          "Hotel Du Pont"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hotel DuPont"
+      },
+      {
+        "from": [
+          "A.H. Meyer Rathskeller",
+          "A.H.Meyer Rathskeller"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "A.H. Meyer Rathskeller"
+      },
+      {
+        "from": [
+          "Nippon Yusen Kaisha S.S.Kasuga",
+          "Nippon Yusen Kaisha S.S. Kasuga"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Nippon Yusen Kaisha S.S.Kasuga"
+      },
+      {
+        "from": [
+          "Red Star Line S.S.Friesland",
+          "Red Star Line Ss Friesland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Red Star Line S.S.Friesland"
+      },
+      {
+        "from": [
+          "S. S. President Wilson",
+          "S.S. President Wilson"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "S. S. President Wilson"
+      },
+      {
+        "from": [
+          "United Air Lines",
+          "United Airlines"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "United Air Lines"
+      },
+      {
+        "from": [
+          "Flat Iron Resaurant And Cafe",
+          "Flatiron Resaurant And Cafe"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Flat Iron Resaurant And Cafe"
+      },
+      {
+        "from": [
+          "Cie Gle Transatlantique",
+          "Cie.Gle. Transatlantique"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cie Gle Transatlantique"
+      },
+      {
+        "from": [
+          "Bundeshaus Restaurant",
+          "Bundeshausrestaurant"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bundeshaus Restaurant"
+      },
+      {
+        "from": [
+          "S.S. Amsterdam",
+          "S.S.Amsterdam"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "S.S. Amsterdam"
+      },
+      {
+        "from": [
+          "Friendly Sons Of St. Patrick",
+          "Friendly Sons Of St.Patrick"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Friendly Sons Of St. Patrick"
+      },
+      {
+        "from": [
+          "Canadian Pacific Railway Co. S.S. Alberta",
+          "Canadian Pacific Railway Co. S.S.Alberta"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Canadian Pacific Railway Co. S.S. Alberta"
+      },
+      {
+        "from": [
+          "Red Star Line S.S. Southwark",
+          "Red Star Line S.S.Southwark"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Red Star Line S.S. Southwark"
+      },
+      {
+        "from": [
+          "U.S.S. San Francisco",
+          "U.S.S.San Francisco"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "U.S.S. San Francisco"
+      },
+      {
+        "from": [
+          "The Round Table",
+          "The Roundtable"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "The Round Table"
+      },
+      {
+        "from": [
+          "St. George's Society Of New York",
+          "St.George's Society Of New York"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "St. George's Society Of New York"
+      },
+      {
+        "from": [
+          "Menzie's Hotel",
+          "Menzies'hotel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Menzie's Hotel"
+      },
+      {
+        "from": [
+          "Business Men's League Of St. Louis",
+          "Business Men's League Of St.Louis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Business Men's League Of St. Louis"
+      },
+      {
+        "from": [
+          "Pig'n Whistle",
+          "Pig N'whistle"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pig'n Whistle"
+      },
+      {
+        "from": [
+          "U. S. S. Wyoming",
+          "U.S.S. Wyoming"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "U. S. S. Wyoming"
+      },
+      {
+        "from": [
+          "The Southern Berkshire Society Of New York",
+          "Southern Berkshire Society Of New York"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "The Southern Berkshire Society Of New York"
+      },
+      {
+        "from": [
+          "Rogers'restaurant",
+          "Roger's Restaurant"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rogers'restaurant"
+      },
+      {
+        "from": [
+          "Cromwell Steamship Company",
+          "Cromwelll Steamship Company"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cromwell Steamship Company"
+      },
+      {
+        "from": [
+          "Red Star Line Ss Westernland",
+          "Red Star Line S.S.Westernland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Red Star Line Ss Westernland"
+      },
+      {
+        "from": [
+          "Compagnie Ge ne rale Transatlantique",
+          "Compagnie Generale Transatlantique"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Compagnie Ge ne rale Transatlantique"
+      },
+      {
+        "from": [
+          "O.D.",
+          "O. D."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "O.D."
+      },
+      {
+        "from": [
+          "B&O Blue Line",
+          "B.& O. Blue Line"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "B&O Blue Line"
+      },
+      {
+        "from": [
+          "St. Andrew's Society Of The State Of New York",
+          "St.Andrews Society Of The State Of New York"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "St. Andrew's Society Of The State Of New York"
+      },
+      {
+        "from": [
+          "U.S.M.S St. Paul",
+          "U.S.M.S.St. Paul"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "U.S.M.S St. Paul"
+      },
+      {
+        "from": [
+          "Canadian Pacific Railway Co. S.S.Athabasca",
+          "Canadian Pacific Railway Co. S.S. Athabasca"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Canadian Pacific Railway Co. S.S.Athabasca"
+      },
+      {
+        "from": [
+          "Hotel La Salle",
+          "Hotel LaSalle"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hotel La Salle"
+      },
+      {
+        "from": [
+          "St. Francis Hotel",
+          "St.Francis Hotel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "St. Francis Hotel"
+      },
+      {
+        "from": [
+          "Smith & Mcnell's",
+          "Smith & Mc Nells"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Smith & Mcnell's"
+      },
+      {
+        "from": [
+          "Hotel McAlpin",
+          "Hotel Mc Alpin"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hotel McAlpin"
+      },
+      {
+        "from": [
+          "Nippon Yusen Kaisha S.S.Nasuga",
+          "Nippon Yusen Kaisha S.S. Nasuga"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Nippon Yusen Kaisha S.S.Nasuga"
+      },
+      {
+        "from": [
+          "U. S. S. New York",
+          "U.S.S. New York"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "U. S. S. New York"
+      },
+      {
+        "from": [
+          "U. S. S. Florida",
+          "U.S.S. Florida"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "U. S. S. Florida"
+      },
+      {
+        "from": [
+          "S.S. America",
+          "S.S.America"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "S.S. America"
+      },
+      {
+        "from": [
+          "Flat Iron Restaurant & Cafe",
+          "Flatiron Restaurant & Cafe"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Flat Iron Restaurant & Cafe"
+      },
+      {
+        "from": [
+          "U.S.M.S.Philadelphia",
+          "Usms Philadelphia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "U.S.M.S.Philadelphia"
+      },
+      {
+        "from": [
+          "Dinner Menu S. S. Vaderland March 18th 1910.",
+          "Dinner Menu S.S. Vaderland March 18th 1910."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dinner Menu S. S. Vaderland March 18th 1910."
+      },
+      {
+        "from": [
+          "Commercial Club Of St. Louis",
+          "Commercial Club Of St.Louis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Commercial Club Of St. Louis"
+      },
+      {
+        "from": [
+          "The Cobble Stones",
+          "The Cobblestones"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "The Cobble Stones"
+      },
+      {
+        "from": [
+          "S.S. United States",
+          "S. S. United States"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "S.S. United States"
+      },
+      {
+        "from": [
+          "St. Louis Club",
+          "St.Louis Club"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "St. Louis Club"
+      },
+      {
+        "from": [
+          "Met Life Building",
+          "MetLife Building"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Met Life Building"
+      },
+      {
+        "from": [
+          "Flat Iron Restaurant",
+          "Flatiron Restaurant"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Flat Iron Restaurant"
+      },
+      {
+        "from": [
+          "Down Town Club",
+          "Downtown Club"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Down Town Club"
+      },
+      {
+        "from": [
+          "Red Star Line Antwerpen Ny",
+          "Red Star Line Antwerpen.Ny"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Red Star Line Antwerpen Ny"
+      },
+      {
+        "from": [
+          "R.M.S. Oceanic",
+          "R.M.S.Oceanic"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "R.M.S. Oceanic"
+      },
+      {
+        "from": [
+          "Cunard Steam Ship Company Limited",
+          "Cunard Steamship Company Limited"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cunard Steam Ship Company Limited"
+      },
+      {
+        "from": [
+          "Smith & Mc Nell",
+          "Smith & Mcnell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Smith & Mc Nell"
+      },
+      {
+        "from": [
+          "Chicago Stationers Association",
+          "Chicagos Stationers Association"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Chicago Stationers Association"
+      },
+      {
+        "from": [
+          "A.W. Dennett",
+          "A.W.Dennett"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "A.W. Dennett"
+      },
+      {
+        "from": [
+          "Imperial Yacht Club Of St. Petersburg",
+          "Imperial Yacht Club Of St.Petersburg"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Imperial Yacht Club Of St. Petersburg"
+      }
+    ],
+    "description": "Mass edit cells in column location_cleaned"
   }
 ]
